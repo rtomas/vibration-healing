@@ -1,0 +1,1397 @@
+Abcesos, secundario: 1550, 802, 760, 465, 444, 450, 428, 660.
+Abdominal, dolor e inflamación: 1552, 802, 832.
+Abdominal, dolor: 10000, 3, 3000, 95, 5000, 880, 78, 3, 45, 78, 45.
+Abdominal, inflamacion: 380, 1.2, 2720, 2489, 2170, 1800, 1600, 1550, 802, 880, 832, 787, 776, 727, 465, 444, 1865, 146, 125, 95, 72, 20, 450, 440, 380, 2720, 2489, 2170, 1800, 1600, 428, 660, 380 2720 2489, 31, 82, 4, 5, 6, 9, 10, 11 + 16, 14, 15, 17, 18, 20, 28, 29 + 86, 88, 42, 45, 58, 103, 104, 105, 106, 107, 112, 118.
+Absceso: 344.
+Abscesos: 2720, 2170, 880, 787, 727, 190, 500, 2720, 2170, 880, 787, 727, 190, 500, 4, 6, 14, 17, 20, 39, 101, 4, 6, 14, 17, 20, 39, 101, 1550, 802, 760, 660, 465, 450, 444, 428.
+Acidez gástrica, cronica: 832, 2720, 2170, 2127, 1800, 1600, 1550, 802, 1500, 880, 787, 727, 685, 465, 444, 1865, 125, 95, 72, 20.
+Acidez gástrica:.15, 4, 6, 7, 9, 10, 11 + 16, 12, 14, 17, 20, 23, 28, 29 + 86, 42, 45, 48, 58.
+Acidosis (hiperacidez): 10000, 880, 802, 787, 776, 727, 20, 146, 1, 14, 16, 17, 18, 88, 58.
+Acne secundario: 760, 465, 444, 450, 428, 660. Acne vulgar: 564.
+Acne: 2720, 2170, 1800, 1600, 1550, 1552, 1500, 802, 880, 787, 727, 564, 778, 5000, 4, 6, 9, 10, 12, 14, 17.
+Aconite (usado para estimular linfocitos): 3347, 5611, 2791.
+Actinobacillus: 773, 776, 778, 822, 488, 565, 672, 674, 678, 766, 768, 777, 885, 887, 7877, 9687, 42664, 42666, 46668, 46787.
+Actinomicosis: 465, 10000, 787, 727, 20, 880, 28, 1, 17, 20, 58.
+Actinomyces israelii (bacteria que habitualmente se halla en los intestinos y en la garganta): 222, 262, 2154, 465, 488, 567, 7880, 10000, 787, 727, 20.
+Acufenos: 727, 787, 880, 5000, 20. 
+Adenocarcinoma de esofago: 47, 2182, 2219, 832, 2084, 2127, 2160, 2452, 2876.
+Adenocarcinoma de estomago: 676.
+Adenoides: 1550, 802, 880, 787, 776, 727, 444, 20, 428, 660, 2720, 2170, 4, 6, 11 + 16, 14, 17, 18, 20, 29, 58, 105, 106, 107, 109, 110, 112, 116, 117.
+Adenoides: 1550, 880, 800, 787, 776, 727, 444, 20, 428, 660, 2720, 2170. 
+Adenoma cervix (tumor epitelial de cervix uterino): 433.
+Adenoma: 433.
+Adenovirus: 333, 523, 786, 768.
+Adhesiones , adherencias: 2720, 2170, 1550, 802, 880, 787, 776, 760, 727, 190, 5000, 2720, 2170, 1550, 4, 6, 11, 16, 14, 17, 18, 19, 20, 39.
+Adinamia en geriatria: 49, 56, 60, 27, 5.
+ADN, estimular el refuerzo de la integridad del: 528 .
+Adrenal Funcion, normalizar: 1335 
+Adrenal, estimulante: 10, 20, 2250, 2489, 465, 3000, 95, 2720, 2170, 2127, 2008, 1800, 1600, 1550, 1500, 880, 832, 787, 776, 760, 727, 700, 690, 685, 666, 650, 625, 600, 444, 1865, 125, 72, 522, 450, 440, 428, 660.
+Aflatoxina (toxina hepatotóxica producida por determinados hongos): 344, 344, 510, 943, 474, 476, 568.
+African trypanosomuasis: 656, 988, 780.
+Afta: 28.
+Aftas bucales (añadir candidas y estomatitis): 414, 465.
+Agarrotamiento músculos en general . 33, 34, 35, 40, 42, 46, 53, 58, 61, 73, 80, 81, 82, 84, 85, 9, 11+16, 14, 17, 18, 20.
+Agitacion nerviosa, efecto prozac: 78.
+Alcoholismo: 10000, 727, 787, 880.
+Alergia: 10000, 880, 787, 727, 3, 330, 5000, 1, 17, 20, 14, 78, 32.
+Alergica, reacción a inyeccion: 10000.
+Alopecia: 1, 14, 17, 20, 28, 88, 727, 800, 880, 10000.
+Alopecia: 20, 10000, 880, 787, 727, 465, 146, 800, 1552, 853, 5000, 800, 1, 14, 17, 28, 88.
+Alopecia: 20, 800, 10000.
+Alternaria tenuis (hongo asociado a patologia pulmonar): 853, 304. Alucinaciones: 1, 14, 17, 20, 58.
+Alucinaciones: 10000, 880, 787, 727, 20, 5000.
+Alzehimer: 430, 620, 624, 840, 866, 5148, 2213, 19180.5, 742.4, 303, 23.2
+Ambrosia: 473.
+Ameba: 310, 333, 532, 732, 769, 827, 1522
+Amenorrea: 10000, 880, 1550, 802, 787, 760, 727, 465, 20, 1, 4, 11, 16, 17, 19, 28, 58.
+Ameba abceso hepático (abceso hepático causado por infección de amebas) - 344, 605.
+Anafilaxis: 10000.
+Anal , picor: 10000, 880, 787, 760, 727, 465, 125, 120, 95, 72, 444, 1865, 773, 826, 827, 835, 4152, 1, 14, 19, 20, 28, 29, 42, 45, 48, 29, 86, 58, 112.
+Anemia: 5000.
+Anestesia, detoxicacion: 522, 146.
+Anestesia, Postcirugía, detoxification de anestesia: 522, 146.
+Aneurisma: 880, 787, 760, 727, 465, 125, 95, 72, 444, 1865, 20, 727, 5000, 14, 17, 19, 20, 28, 42, 45, 48, 29 + 86, 58.
+Anexitis (ovaritis y salpingitis): 440, 441, 522, 572, 522, 572, 3343, 3833, 5312.
+Angina de pecho: 5000.
+Angor Secundario: 4, 6, 9, 10, 12, 14, 15, 17, 18, 20, 28, 29 + 86, 42, 45, 48, 58, 106.
+Angor: 787, 776, 727, 465, 428, 660, 17, 18, 20, 28, 105, 106, 107, 109, 110, 112, 117, 118, 119, 3, 230, 2720, 2170, 1800, 1600, 1500, 880, 832, 444, 1865, 125, 95, 72, 20, 660, 727, 465, 7.83, 78 + 36.
+Anorexia: 28, 29 + 86, 42, 45, 48, 58, 1, 14, 17, 20, 465, 444, 1865, 125, 95, 72, 20, 10000, 880, 787, 727.
+Anorexia: 800, 10000.
+Anosmia (pérdida de olfato): 20, 10000.
+Anquilostoma: 6.8, 440, 2008, 6436, 5868.
+Antiseptico, efecto: 11 + 16, 14, 17, 19, 20,.28, 29, 103, 105, 106, 107, 108, 109, 110, 112, 118, 119, 123.
+Antiséptico, general: 1550, 802, 880, 787, 760, 727, 465, 444, 450, 428, 660, 10000, 5000.
+Antiseptico: 1550, 880, 787, 760, 727, 465, 444, 450, 428, 660, 5000.
+Antracinun: 633.
+Antrax: 500, 633, 1365, 1370, 768, 414, 727 787 880.
+Apéndice: 1550, 880, 787, 727, 444, 380, 190, 650, 522, 125, 95, 72, 20, 146, 440, 450.
+Apendicitis: 11 + 16, 14, 17, 20, 29, 31, 39, 61, 25, 29 + 87, 42, 45, 48, 58, 88, 104, 103, 117, 118, 119, 1550, 802, 880, 787, 727, 444, 380, 190, 10, 650, 444, 522, 125, 95, 72, 522, 146, 440, 450.
+Apoplejía: 40, 1800, 880, 787, 727, 650, 625, 600, 125, 95, 72, 20, 1865, 522, 428, 53, 58, 9, 14, 17, 20, 25 + 26+ 27, 42, 45, 48, 58, 86, 87.
+Arnica Montana: 1042, 1032.
+Arsenicum album: 562.
+Arteriosclerosis del ojo: 20, 727, 787, 880, 10000.
+Arteriosclerosis: 10000, 2720, 2170, 1800, 1600, 1500, 880, 787, 776, 727, 1, 4, 6, 9, 10, 12, 14,17,18, 20, 58.
+Articulacion, inflamacion: 10000.
+Artritis reumatoide: 82 y 34, 62, 63, 26 + 26 +27, 1, 11 + 16, 14, 17, 20, 55, 58, 69, 78, 82.
+Artritis reumatoidea: 250, 1.2, 650, 625, 600, 787, 727, 262, 776 34, 82, 25, 26, 27, 1720, 15, 324, 528.
+Artritis, artralgia debido a gota: 9.39, 63.
+Artritis, artrosis, y alteraciones de paratiroides que afectan al metabolismo del calcio: 9.6, 62.
+Artritis, secundaria: 2720, 1000, 1500, 770.
+Artritis: 120, 727, 787, 880, 1550, 802, 1664, 80, 60, 40, 30, 25, 26, 20, 10, 5000, 10000, 7.69, 3, 1.2, 28, 1.5, 2489, 1550, 880, 800, 787, 727, 28.11, 14, 16, 17, 55, 58, 69, 78, 82.
+Ascaris: 152, 442, 8146, 751, 1146, 797.
+Ascaris: 20, 104, 120, 128, 240, 650, 688, 332, 422, 112, 721, 942, 3212, 732, 4412, 543, 772, 827, 835, 4152, 5897, 7159, 128, 240, 422, 650, 688.
+Asma (1): 1283, 1233, 4.7.
+Asma (2): 1234, 3672, 7346, 727, 787, 880, 10000, 47, 120 for 5 min.
+Asma bronquial: 522, 146, 125, 95, 72, 444, 20.
+Asma: 2720, 2170, 1800, 1600, 1500, 1283, 1233, 880, 787, 727, 0.5, 522, 146, 125, 95, 72, 444, 20, 4, 6, 9, 10, 12, 14, 17.
+Aspergillus niger: 374, 697.
+Aspergillus terreus: 743, 339.
+Aspergilus flavus: 1823, 247, 1972.
+Aspergilus glaucus: 524, 758.
+Astenia: 727 787 880 5000, 424, 664, 464, 120, 4, 9, 105, 106, 28, 42, 45, 48, 56, 58, 29 + 86.
+Astrocitoma: 65, 67, 69, 6, 7, 14, 22, 24, 857, 2170 2127 880 690 666 727 787 2008 2127.
+Astrocitoma: 857, 9.19, 8.25, 7.69, 2170, 543, 641, 2127, 880, 690, 666. Ataxia, espastica: 9.19, 8.25, 7.69, 65, 67, 69.
+Ataxia: 2720, 2170, 1800, 1600, 1500, 880, 787, 776, 727, 650, 625, 600, 444, 1865, 125, 95, 72, 20, 10000.
+Ataxia: 4, 6, 9, 10, 12, 14, 17, 18, 20, 25, 26, 27, 29 + 86, 42, 45, 48, 58, 5000, 2720, 2170, 1800, 1600, 1500, 880, 787, 776, 727, 650, 625, 600, 444, 1865, 125, 95, 72.
+Audicion, problemas: 1, 11 +1 6, 14, 17, 19, 20, 58.
+Autointoxicacion: 522, 146, 1550, 10000, 800, 880, 787, 727, 20, 85, 87, 88, 1, 14, 17, 58.
+AVC: 3.0, 203, 1800, 880, 787, 727, 650, 625, 600, 125, 95, 72, 20, 1865, 522, 428, 10000, 20, 2720, 5000.
+AVC: inmediatamente 10000 20 y luego 3, 78 + 36. Avena negra: 806.
+Bacillinum (nosode): 132, 423, 432, 785, 853, 854, 921, 1027, 1042, 1932. Bacillus Coli Rod Form: 800.
+Bacillus Coli Virus: 1552, 2872.
+Bacillus subtilis (puede causar conjuntivitis): 432, 722, 822, 1246.
+Bacillus thuriniensis: 520, 2551, 902, 1405.
+Bacillus, infecciones (B. coli, B. coli rod): 787, 880, 802, 727, 1552, 800.
+Bacteriana, infección: (usar Parasitos. también ver antisepticos y cepas especificas.): 20, 465, 866, 664, 690, 727, 787, 832, 800, 880, 1550, 784.
+Bacteriana, infeccion: 832, 800, 784.
+Bacterium coli: 642, 358, 539, 282, 333, 413, 957, 1320, 1722. Bacterium lactis nosode: 512, 526, 798, 951, 5412. Bacteroides fragilis: 633 y 637.
+Basidiomycetes: 751.
+Bazo, esplenomegalia: 35, 787, 3176, 20.
+Bazo, esplenomegalia: 54 y 17, 1, 4, 6, 9, 11, 14, 16, 20, 28, 58.
+Bazo: 10000, 2720, 2170, 1800, 1550, 880, 802, 727, 465, 20.
+BCG, Vacuna: 277, 768, 832, 725.
+Bilirrubina: 717, 726, 731, 863, 9305, 649, 734.
+Bilis, exceso: 1550, 802, 10000, 880, 832, 787, 727, 465, 11, 16, 1, 14, 15, 17, 20, 28.
+Blastocystis hominus: 365, 595, 844, 848, 1201, 1243, 5777, 11425, 11841, 11967, 13145, 13469, 21776.
+Bocio: 20, 727, 787, 880, 5000, 16000.
+Bocio: 332, 422, 721, 942, 3212, 5311, 531, 756, 361, 105, 122, 321, 517, 532, 651, 714.
+Borrelia/borreliosis (ver enfermedad de Lime): 254, 264. 
+Botritis cinereas: 1132, 212.
+Botritis: 1545.
+Botulismo: 518, 533, 639, 172, 1372, 691, 683. Bradicardia: 5000.
+Branhamella (Moraxella) catarrhalis: 2013, 579, 581, 687, 770, 772, 775, 778, 2013.
+Braquial, neuralgia: 0.5, 85.
+Bright , sindrome (ver Nefritis): 14, 12, 17, 20.
+Brights, sindrome (nefritis) 1500, 880, 787, 727, 5000.
+Bronconeumonia: 452, 1474.
+Bronquial, neo: 462, 776, 852, 1582, 2104, 2144, 2184, 3672.
+Bronquiectasia: 342, 510, 778.
+Bronquiolos: 727, 880.
+Bronquitis asmatica: 85, 87, 88, 42, 45, 48, 29, 87, 58.
+Bronquitis: 880, 727, 9.39, 9.35, 1234, 3672, 7344, 743, 20, 72, 333, 452, 464, 683, 14, 20, 63, 64.
+Brucella abortus (bacilo de Bang): 1423. Brucella melitensis: 748, 643, 695.
+Bubónica, plaga (Yersenia pestis): 500, 333, 210, 216, 5000, 101, 14, 17, 20, 58.
+Bubonica, plaga, infecciones secundarias: 880, 787, 727, 20. Bursitis: 880, 787, 727, 14, 17, 20.
+BX Virus: 2128, 3713.
+Cabeza, lesion: 9.6, 3000, 880, 787, 727, 522, 72, 5.8, 4.9, 40, 62, 3, 14, 17, 20, 87, 48, 73, 74.
+Cabeza, lesiones: 10000, 3000, 880, 787, 727, 522, 72. Cabeza, presion: 20, 727, 787, 880, 5000.
+Cadera , dolor (coxartritis). 880 787 727, 14, 17 , 20, 58. Calambres menstruales: 26.
+Calambres y nausea: 72, 95, 190, 880, 832, 787, 727, 20, 4.9.
+Calambres: 10000, 880, 787, 727, 26, 25, 770, 5000, 1, 14, 17, 20, 57, 26.
+Calcio, metabolismo, estimularlo: 328 
+Cálculo (arenilla) urinario: 2.65, 3000, 880, 787, 727, 20, 79, 31 14, 17, 20, 56.
+Calculos biliares: 2.65, 3.5, 3000, 1552, 800, 880, 787, 727, 20, 6000, 10000, 444, 79, 3, 14, 17, 20, 58.
+Calculos en vejiga o vesicula biliar: 727, 800, 880, 10000.
+Calculos renales: 444, 727, 787, 880, 10000, 6000, 3000, 3.5, 1552. Calculos: 10000.
+Calculos: 77.
+Calmar , tranquilizar: 6000.
+Campylobacter (bacteria que causa diarrea en bebes): 732, 733, 1633, 1834, 2222, 333, 378.
+Cancer, micosis fungoide (cancer de piel semeja9n0te a eczema): 852. Cancer, plasmacitoma (neo de celulas plasmaticas): 475.
+Cancer, rabdomiosarcoma (1): 2000, 2005, 2008, 2016, 2048, 2084, 2093, 6024, 2100, 2128, 2127, 2184, 2217, 6384, 728, 784, 880, 464.
+Cancer, rabdomiosarcoma, embrional: 2586, 5476, 4445, 2004, 2008, 2016, 2032, 2040, 2060, 6024.
+Candida Albicans 20, 60, 95, 125, 225, 414, 427, 465, 727, 787, 880.
+Candida albicans: 28.
+Candida carcinomas: 2167, 2182, 465.
+Candida secundaria: 72, 422, 582, 727, 787, 802, 1016, 1134, 1153, 1550, 2222, 412, 543.
+Candida terciaria: 880, 95, 125, 20, 60, 225, 427, 240, 650, 688, 152, 442, 8146, 751, 1146.
+Candida tropicalis:1403, 675, 709.
+Candida: 414, 464, 877, 866, 254.2, 381, 661, 762, 742, 1151, 450, 28, 465 880 787 727 95 125 20.
+Candida: 414, 465, 880, 787.
+Canine parvovirus, cepa mutante: 323, 514.
+Canine parvovirus, type B: 323, 535, 613, 755, 761, 764, 766, 768. Canine parvovirus: 185, 188, 323, 428, 433, 562, 613, 622, 1000, 4027.
+Capilares estimular la curación: 15.2 . Carbon animal, homeopatico: 444.
+Carbunco: 20, 727, 787, 880, 5000.
+Carbunco: 20, 880, 1550, 787, 727, 465, 660, 5000.
+Carvularia spiratera: 879.
+Cataratas, complicacion: 1830, 496, 325, 774.
+Cataratas: 1830, 728, 784, 787, 880, 10000, 11, 16, 14, 17, 29, 58, 880, 727, 787, 880, 5000, 2010, 1335.
+Catarro: 1550, 802, 800, 880, 787, 727, 444, 20. Causticum: 540, 1013.
+Cebada, alergia a: 1778, 377, 224, 1447. Cefalea ,causa urogenital: 9.39, 3000, 3, 63, 40. Cefalea biliar: 8.5, 3.5.
+Cefalea de causa desconocida: 10, 4, 5.8, 6.3, 7.83, 3000, 650, 625, 600. 
+Cefalea debido a parasitos: 125, 95, 73, 20, 727, 3000, 40, 42, 45, 47, 58, 3. 
+Cefalea debido a toxicidad: 522, 146, 4.9, 3000, 880, 787, 727, 20.
+Cefalea por desaliniación vertebral: 9.6, 3000, 40, 62, 3.
+Cefalea, tipo migraña: 5000 20 10 727 787 880 5000, 40 y 61.
+Cefalea: 304, 144, 1.2, 520, 61, 875 88, 74, 3, 14, 17, 20, 58, 61, 71, 73, 3, 25, 26, 27.
+Celiaca, enfermedad: 674.
+Celulas blancas sanguineas, estimular su función: 1434 
+Celulas rojas sanguineas, estimular su formación: 1524  Celulas T: 222, 262, 822, 3042, 3734.
+Cephalosporium (hongos procedentes de algunos antibioticos de amplo espectro): 481, 3966, 544.
+Cephalothecium: 371, 574, 6933.
+Cerebral , paralisis: 880, 787, 727, 522, 146, 10000, 14, 17, 20, 87, 88. Cerebro: 20, 1000, 2000.
+Cerebroespinal, patología: 10000.
+Cerumen (cera en los oidos): 311, 320, 750, 984, 720.
+Cerumen: 311, 320, 750, 984.
+Cervicitis ( inflamacionsdel cuello uterino): 20, 727, 787, 880.
+Cervix, adenoma: 433.
+Cervix, polipos: 277, 288, 867, 687, 744.
+Chaetomiumglobosum: 221, 867, 102.
+Chakra de la base: 20, 4 .
+Chelidonium: 162.
+Ciatalgia: 11 + 16, 14, 17, 20, 22, 24, 61. 120.
+Ciatica: 10000, 120, 20, 727, 787, 880, 120.
+Cicatriz infectada: 59.
+Cimicifuga: 334, 594.
+Circulacion , estimulacion: 786, 1050, 1.2, 5000, 832, 20, 880, 787, 776, 727.
+Circulacion sanguinea, estimular: 337 
+Circulacion sanguinea, estimular su produccion: 17 
+Circulacion, disturbios: 40, 9.39, 63.
+Circulacion, estasis: 40, 2112, 2145, 2720, 2489, 1.2, 53. Circulación, estimular su función: 337 , 17.
+Circulacion, mala: 20, 727, 787, 880, 10000.
+Cirrosis biliar: 381, 514, 677, 2271, 1250, 170, 715, 774, 776. Cirrosis, biliar: 381, 514, 677, 2271.
+Cirrosis, hepatitis: 291.
+Cirugía pre-op y post-op para prevenir y control nosocomial: 2170, 1800, 1600, 1550, 802, 1500, 880, 832, 802, 787, 776, 727, 465, 444, 522, 146, 428, 887, 5000.
+Cirugia, Post cirugia: 880, 787, 727, 20.
+Cirugia, Pre cirugia: 20, 727, 787, 880.
+Cirugía,dolor postoperatorio: 3000, 2720, 95.
+Cistitis cronica: 246, 1550, 880, 802, 787, 727, 465, 20, 11, 14, 16, 17, 28, 58. Cistitis: 5000, 1550, 880, 800, 787, 727, 465, 20.
+Cistopielonefritis: 1385.
+Citomegalovirus: 126, 597, 682, 1045, 2145.
+Cladosporium fulvum (hongo patogeno): 438, 233, 776, 510.
+Clamidia pneumoniae: 470, 940.1, 1880.1, 3760.3, 7520.5.
+Clamidia tracomatis: 430, 620, 624, 840, 2213, 866, 471.5, 942.9, 1885.9, 3771.7, 7543.4.
+Claridad de pensamiento/ función mental, estimular: 35 . 
+Claridad mental: 12.
+Claudicacion intermitente: 52, 50, 45, 48.
+Clostridium difficile: 387, 635, 673.
+CMV, citomegalovirus: 126, 597, 629, 682, 1045, 2145, 8848, 8856. Coelicia: 154, 594, 656, 586, 668, 787, 7958, 665, 674.
+Colecistitis aguda: 481, 743, 865, 928.
+Colecistitis cronica: 432, 1551, 801.
+Colera secundario: 880, 802, 450, 880, 787, 727.
+Colera: 330, 843, 844, 556, 1035, 968, 591, 691, 14, 16, 103, 17, 20.
+Colesteatoma (tumor benigno en oido medio y mastoides): 453, 618, 793, 5058.
+Colesterinum: 1386, 173, 620, 635, 780.
+Colico de estomago: 20, 727, 787, 800, 880.
+Colico: 1550, 832, 802, 787, 727, 20, 11, 15, 16, 17, 58, 800.
+Colitis: 10000, 1550, 880, 832, 802, 440, 11, 14, 1, 15, 16, 104, 800, 10000. Collectotrichum: 1482.
+Colon irritable: 20, 727, 787, 802, 832, 880, 465, 422, 6766, 1550. Colon problemas, general: 20, 440, 880, 1552, 802, 832.
+Colon, estimular la función: 635 
+Colon, inflamacion: 800.
+Colon, neo: 656.
+Comedones (espinillas): 778.
+Comportamiento insociable: 75.
+Concentracion mental: 10000, 7.82.
+Condiloma (ver papiloma): 466.
+Congelación: 727, 787, 880, 5000.
+Congelación: 880, 787, 727, 14, 17, 20.
+Conjunctivitis: 489, 1550, 880, 802, 787, 727, 20, 80, 432, 722, 822, 1246, 1830, 1, 11, 14, 16, 17, 58, 46, 728.
+Conjuntivitis: 727, 787, 800, 880.
+Constipacion: 1550, 880, 802, 832, 787, 776, 422, 727, 20, 11, 14, 16, 17, 18, 58, 800.
+Contusion: 9.1, 110, 2720, 66, 43. Contusiones: 727, 787, 880, 10000. Convoforce: 774.
+Convulsión: 329, 226, 953.
+Convulsiones (1): 10000, 880, 787, 727, 1, 14, 17, 20. Convulsiones espasticas: 65, 67, 69.
+Convulsiones, espasticas: 9.19, 8.25, 7.69.
+Coraforce: 774.
+Corallinus: 533.
+Corazón ,tonico cardíaco: 80, 160, 20, 73, 3.9, 3000, 880, 787, 727, 465, 125, 95, 1.2.
+Corazon, estimular su función: 696 
+Cortes y heridas: 20.
+Coryza, resfriado nasal: 880, 787, 727, 5000.
+Costalgia (dolor costal): 10000, 880, 787, 727, 5000, 1, 14, 17, 20. Coxartritis, dolor cadera:. 880 787 727, 14, 17 , 20, 58.
+Coxsackie B2: 705, 534, 867.
+Coxsackie B3: 487, 868, 653, 654.
+Coxsackie B4: 421, 353, 540, 8632.
+Coxsackie B5: 462, 1043, 1083, 569, 647, 708, 774. Coxsackie B6: 488, 736, 814, 343, 551, 657, 668, 669.
+Coxsackie: 136, 144, 232, 380, 422, 424, 435, 921, 923, 769, 1189, 595, 676, 353, 384, 834, 587, 723.
+Crinis humansis: 646.
+Crocus sotillus: 710.
+Crohn, enfermedad: 727.
+Cryptococcus neoformans: 367, 428, 444, 476, 478, 522, 579, 594, 785, 792, 872, 2121, 5880, 5884, 597, 613, 624.
+Cryptosporidium (parasito):220, 482, 575, 4122, 698, 711, 893, 895, 1276, 5690.
+Cunninghamella: 311, 323.
+Curación y regeneracion: 2720.
+Curva spic: 435.
+Cyclospora: 543, 316, 992, 751, 268, 2144.
+Dematium nigrum (hongo): 243, 738.
+Dental , foco: 3000, 95, 190, 47.5, 2720, 2489, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 666, 650, 600, 465, 5170, 646.
+Dental: 635, 640, 1036, 1043, 1094, 685, 60, 48, 465.
+Dentales, focos: 3, 45, 39, 51, 10, 11 + 16, 12, 14, 1, 5, 17, 18, 19, 20, 24 + 25 + 27, 28, 4, 5, 9.
+Depresion (debido a causas externas): 35, 787, 54, 17.
+Depresion (debido a medicamentos, drogas o toxinas): 1.1, 73, 83, 47. 
+Depresion / ansiedad: 3.5.
+Depresion, ansiedad, temblor, debilidad: 3.5, 800.
+Desfallecimiento , lipotimia: 20.
+Desmayo: 727, 787, 880, 5000, 20.
+Desordenes nerviosos: 1, 4, 5, 6, 9, 10, 11 + 16, 14, 17,20, 25, 26, 27, 42, 45, 48, 58, 104, 106, 109.
+Detoxicación , química: 664, 7344, 2842, 1147, 686.6, 684.1, 1113, 779.9, 829.3, 679.2, 865, 969.9, 1067, 783.6, 800.4, 1045, 1062, 673.9, 690.7 for 5 min.
+Detoxicacion en anestesia: 87, 88. Detoxicacion: 10000, 3176.
+Diabetes (1): 4200, 2128, 1865, 1850, 1550, 787, 465, 444, 125, 95, 72, 48, 302.
+Diabetes secundaria: 10000, 2720, 2170, 1800, 1550, 880, 802, 727, 465, 20, 1, 4, 6, 9, 11, 14, 16, 20, 28, 58.
+Diabetes terciaria: 1850, 32000, 4000, 500.
+Diabetes, carga: 35, 700, 54, 21.
+Diabetes, infeccion asociada(1): 2020, 800, 727, 190, 80, 20.
+Diarrea: 1550, 880, 832, 802, 786, 727, 465, 11, 14, 16, 17, 20, 28, 500.
+Dientes y muelas, dolor: 3, 45, 39, 51, 4, 5, 9, 10, 11 + 16, 12, 14, 15, 17, 18, 20, 24, 25, 27, 28, 107.
+Dientes y muelas, dolor: 3000, 95, 190, 47.5, 2720, 2489, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 666, 650, 600, 465, 646, 5170, 5000.
+Dientes y muelas, extraction, despues: 3, 45, 51, 68.
+Dientes, extraccion: 3000, 2720, 95, 47.5, 7.82.
+Difteria: 151, 624, 776, 340, 925, 432, 590, 788, 18, 107, 20, 20, 727, 787, 880. Difteria: 880, 787, 727, 20, 776.
+Digestión: 727, 787, 880, 5000.
+Diplopia del ojo: 727, 787, 880, 5000.
+Disenteria: 1552, 802, 832.
+Dismenorrea por infeccion uterina: 74, 11+ 16, 14, 17, 20, 28.
+Dismenorrea: 26, 4.9, 1550, 880, 802, 787, 727, 465, 800, 57.
+Dispepsia (indigestion): 1550, 880, 787, 727, 5000, 800.
+Dispepsia: 1550, 880, 802, 787, 727, 11, 14, 16, 17, 20.
+Distension muscular: 9.1, 110, 66, 43.
+Distracción: 73.
+Diverticulosis: 154, 934.
+Diverticulosis: 154, 934.
+DNA, estimular: 528 
+Dolor , alivio: 304, 6000, 3000, 666, 80.
+Dolor agudo: 3000, 95, 10000, 5000, 1550, 880, 787, 727, 690, 666.
+Dolor cadera: 5000.
+Dolor codo: 5000, 230.
+Dolor dental: 3, 45, 39, 51, 10, 11 + 16, 12, 14, 1, 5,17,18,19, 20, 24 + 25 + 27, 28, 4, 5, 9.
+Dolor espalda: 10000.
+Dolor juanetes: 5000, 20.
+Dolor neoplasico: 3000, 95, 2127, 2008, 727, 690, 666.
+Dolor por cancer: 3, 45, 7, 8, 20 + 22 + 24.
+Dolor por cancer: 3000, 95, 2127, 2008, 727, 690, 666.
+Dolor por infeccion: 3000, 95, 880, 1550, 802, 787, 776, 727, 4.9. Dolor por infecciones: 3, 45, 14, 11 + 16, 17, 18, 20, 74.
+Dolor por paralisis: 727 787 880.
+Dolor post anestesia: 3, 45.
+Dolor post operatorio: 727 787 880.
+Dolor psicosomatico: 44 y 32.
+Dolor, agudo: 3000, 95, 10000, 1550, 802, 880, 787, 727, 690, 666.
+Dolor, agudo: 3000, 95, 10000, 1550, 802, 880, 787, 727, 690, 666, 3.45, 1, 11, 16, 14, 17, 20, 22, 24.
+Dolor: 3, 45.
+Dolor: 3000, 95, 666, 80
+Dolor: 3000, 95, 666, 80, 3040.
+Dorsalgia: 760, 1550, 880, 787, 727, 10000. Down, sindrome, paliativo: 2.
+Drogadiccion: 20, 727, 787, 880, 5000. Drogas, adiccion: 20.
+Droglioma: 853.
+Duodenal, ulcera: 727, 787, 880, 10000, 776. Duodenitis: 223.
+Dupuitren, contractura: 1.2, 250, 82, 34
+Echo Virus (Endometriosis Tuberylosa): 620, 625, 722, 765, 922, 514, 788, 461.
+Eczema (1): 770, 916, 415.
+Eczema en alteraciones funcionales vasculares y pulmonares: 9.39, 1550, 787, 727, 63.
+Eczema: 9.19, 707, 1550, 802, 787, 727, 10000, 5000, 2720, 2180, 2128, 664, 120, 20, 65, 11, 16, 17.
+Echinococcinum: 164, 453, 542, 623.
+Edema ( hinchazón, inflamación) de estomago: 5000, 800, 20.
+Edema (Ver también Insuficiencia renal y éstasis linfática): 522, 146, 6.3, 148, 444, 440, 880, 787, 727, 20, 10000, 5000, 3000.
+Edema , piernas y pies: 20, 727, 787, 880, 5000, 10000.
+Edema agudo de pulmon: 65.
+Edema cardiaco: 9.19.
+Edema: 522, 146, 6.3, 148, 444, 440, 880, 787, 727, 465, 20, 5000, 10000, 87, 88, 71, 41, 29, 104, 14, 17, 28.
+Edema: 87, 88, 71 y 41, 29, 104, 14, 17 20.
+Electrolitos, niveles: (agua, sodio, potasio): 8.1, 20, 10000.
+Elefantiasis: 623, 824, 865, 710.
+Emfisema: 1234, 3672, 7344, 880, 787, 727, 120, 20, 80
+Emocional trauma / bloqueo energetico estimular el desbloqueo: 15 .
+Emocional, lazos emocionales a enfermedades: 764, 664.
+Emocionales, estados, estimular la estabilidad: 15 . Enajenacion: 73.
+Encefalitis: 841.
+Encia, enfermedad (Gingivitis, Piorrea): 11, 14, 16,17, 20, 28, 58. Encias, piorrea: 727, 787, 800, 880, 10000.
+Endocarditis: 5000.
+Endocrino, normalizar su funcion: 537 , 1537  Endometriosis, cronica: 246, 800, 1550.
+Energia y vitalidad: 9999.
+Entameba Histolytica: 148, 166, 308.
+Entamoeba histolytica (protozoo que causa la disenteria): 148, 166, 308, 393, 631, 778.
+Entero hepatitis: 552, 932, 953. Enterobias: 773 827 835.
+Enterobiasis (parasitosis por lombrices en intestino): 20, 120, 773, 826, 827, 835, 4152.
+Enterococcinum: 686, 409.
+Entumecimiento de manos y dedos : 20, 727, 787, 880, 5000.
+Entumecimiento: 10000, 2720, 2489, 2170, 1800, 1600, 1550, 802, 880, 787, 727, 650, 625, 600, 440, 660.
+Entumecimiento:1, 4, 5, 6, 9, 10, 11 + 16, 14, 17, 20, 25, 26, 27,104, 106, 109. Enuresis: 10000, 880, 787, 727, 1, 14, 17, 20, 28.
+Enuresis: 5000.
+Epicoccum: 734, 778.
+Epicondilitis lateral o vertical: 1.2, 250, 728, 766, 776, 880, 82, 34, 5000, 787.
+Epidermophyton floccinum (hongo que afecta a piel y uñas): 465, 784, 644, 766, 345.
+Epididimitis (inflammation of testicle area, ducts. See also Orchitis.): 1500, 880, 787, 727, 20, 12, 14, 17, 20, 58.
+Epilepsia: 10000, 880, 802, 787, 727, 700, 650, 600, 210, 633, 125, 1, 14, 16, 17, 20, 21, 25, 27, 42, 58.
+Epstein-Barr virus, secundario: 744, 776, 778, 465, 880, 787, 727, 1032, 1920.
+Epstein-Barr virus: 105, 172, 253, 274, 660, 663, 667, 669, 738, 825, 8768, 1013, 1920, 6618, 105, 106, 18, 28, 14, 17, 20, 778, 776, 465, 880, 727, 728, 787.
+Equilibrio , general: 1130, 1131, 33.
+Erisipelas: 616, 776, 735, 845, 660, 10000, 880, 787, 727, 465, 20, 106, 1, 14, 17, 20, 28, 58.
+Eritema nodoso: 9.39, 63.
+Eriterocoucinum: 686.
+Escarlatina: 14, 17, 20, 22 + 24.20.
+Escarlatina: 437, 880, 787, 727, 690, 666.
+Escherichia coli: 282, 289, 7849, 327, 548, 333, 413, 642, 799, 802, 804, 832, 957, 1320, 1550, 1722, 556, 934, 1242, 1244, 1703, 632, 634, 776.
+Esclerosis lateral amiotrofica: 864, 790, 690, 610, 484, 986, 644, 25, 790, 690, 610, 484, 986, 644, 254.
+Esclerosis lateral amiotroica (ELA): 254. Esclerosis lateral: 254.
+Esclerosis multiple (1): 2253, 2467, 2357, 2358, 242, 305, 2089, 3057, 81, 5000, 1550 + 802, 880, 787, 728 + 690 + 660, 20.
+Esclerosis multiple , temblor, convulsion , contracción nerviosa: 470.
+Esclerosis multiple secundaria: 20, 143, 275, 430, 470, 524, 620, 624, 802, 840, 854, 1550, 2213, 5000, 728, 784, 880, 464.
+Esclerosis multiple: 11 + 16, 14, 17, 20, 58. Escorbuto: 5000.
+Esofago, constriction: 880, 787, 727, 14, 17, 20.
+Espalda , dolor (si no mejora con ellos , utilizar la frecuencia de estimulación renal y beber abundante agua): 9.3, 9.4, 9.6, 7.6, 7.7, 3, 0.5, 432, 465, 728, 776, 784, 19, 11, 16, 14, 17, 20, 1, 760, 1550, 802, 880, 787, 727, 10000, 41.2, 212, 305, 33.
+Espalda y espasmos (1): 120, 212, 240, 424, 465, 528, 760, 727, 787, 880, 1550, 2112, 5K, 10K.
+Espasmo muscular: 6.8, 20, 10000.
+Espasmo muscular: 70.
+Espastica ,paralisis: 30.87, 48, 31.
+Espiritual, bienestar estimular el equilibrio: 1565 . Espolón oseo: 1.2, 250, 82, 34.
+Espondilitis anquilosante por psoriasis: 82, 61, 54, 55, 69, 82.
+Espondilitis anquilosante: 3000, 95, 1550, 802, 880, 787, 776, 727, 650, 625, 600, 28, 1.2, 10, 35, 28, 7.69, 110, 100, 60, 428, 680.
+Espondilitis anquilosante: 3000, 95, 1550, 802, 880, 787, 776, 727, 650, 625, 600, 28, 10, 35, 28, 7.69, 1.2, 110, 100, 60, 428, 680, 3, 45, 11 + 16, 14, 17, 18, 20, 25 + 26 + 27, 55, 82, .61, 54, 55, 93, 82, 43, 44, 49, 105, 106, 109, 110, 112.
+Espondilitis, acute 82 y 61, o 69 y 55, 10, 28. Espondilitis: 1550 880 800.
+Estafilococo aureus: 424, 727, 786, 943, 1050, 8697, 644, 647, 745, 738, 744, 723.
+Estafilococo coagulasa positivo: 643.
+Estafilococo, infeccion, general: 453, 550, 674, 728, 1109, 7160, 634, 639, 1089, 730, 725, 727, 800,20, 643, 727, 943.
+Estafilococo, infeccion: 960, 727, 786, 453, 674, 550, 1109, 424, 943, 1050, 643, 2600, 7160, 639, 1089, 8697.
+Estafilococos, infeccion: 20. 875, 880, 885, 727.
+Estenosis cardiaca: 5000.
+Esterilidad: 5000, 10000, 2008, 2127.
+Estomag, calambres: 20, 727, 787, 880, 10000.
+Estómago dilatado: 727, 787, 800, 880, 5000.
+Estomago, desordenes: 7 ,8, 14, 17, 20, 20 + 22 + 24, 42, 45, 48, 58, 75, 103, 118, 119.
+Estomago, ulcera: 880, 787, 776, 727.
+Estomago: 2127, 2008, 880, 784, 727, 690, 676, 664, 125, 95, 72, 20, 3.9, 450, 802, 1552, 832, 422.
+Estomatitis aftosa: 478, 487, 498, 788, 955, 982. Estomatitis: 465, 677, 702, 787, 234, 278, 568, 672. Estornudar: 880, 787, 727, 465, 146, 1000. Estornudos: 14, 17, 20, 28, 88.
+Estreptococo, infeccion: 14, 880.
+Estrogenos, normalizar los niveles, hombre como mujer:1351  Euglena: 432, 3215, 3225, 3325, 6448.
+Eustaquio, trompa de, inflamacion: 1550, 880, 802, 787, 776, 727, 465, 11, 14,16, 17, 18, 20, 28.
+Facial tono: 1.2.
+Facial, calambre: 10000, 6000, 304, 1131, 33.
+Facial, paralisis: 10000, 880, 787, 727, 1, 14, 17, 20, 5000. Falta de conductividad: 20, 727, 787, 880, 10000.
+Faringitis: 2720 2489 1800 1600 1550 880 787 776 727 465 440 380 1600 20 522 14, 31,10, 11 + 16, 18, 17, 14, 20, 58, 87, 88. 727, 787, 880, 440, 380, 1600, 1550, 802, 776, 784, 880, 727, 20, 522, 146.
+Fasciola Heptica: 275.
+Fatiga , debilidad, agotamiento: 20, 727, 787, 880.
+Fatiga cronica, sindrome: 10000, 660, 2127, 787, 465, 1550, 727, 120, 880, 424, 664
+Fatiga general: 428, 424, 664, 660, 464, 125, 120, 95, 72, 20, 444, 1865, 10000, 5000.
+Fatiga: 10.55, 7.83.
+Fatiga: 428, 660, 465, 125, 95, 72, 20, 444, 1865.
+Fel tauri (homeopatico): 672.
+Feli: 435, 742.
+Feline, leucemia: 258, 332, 414, 424, 544, 830, 901, 918, 997, 741, 743. Felis: 430, 834, 2232, 3233.
+Felon II: 663, 665, 720, 722.
+Femenino, desordenes: 727, 787, 880.
+Fibroadenoma mamario no-neoplasico, (nódulos fibrosos en los pechos): 1384.
+Fibroma, secundario: 11, 16, 28.
+Fibroma: 1550, 465.
+Fibroma: 2127, 2008, 727, 690, 666, 1550, 802, 465.
+Fibroma: 7, 8, 20, 22, 24.
+Fibromialgia (1): 120, 140, 304, 464, 728, 800, 880, 2489, 3176, 5000, 6000, 9000 for 5 min.
+Fibromialgia: 328, 880, 800, 728, 5000, 2720, 2180, 2128, 664, 464, 304, 120, 20., 326 
+Fibropendulum: 661, 7465, 211, 233, 766. Fibrosarcoma: 1744.
+Fibrosarcoma: 1744.
+Fibrosis de Jung: 27.5, 220, 410.
+Fibrosis pulmonar: 56, 37, 30.
+Fibrosis quistica: 523, 557, 478, 776, 660, 727, 778, 787, 802, 880.Facial, tono: 9.6, 62.
+Fibrosis quistica: 660, 727, 778, 787, 802, 880.
+Fiebre amarilla: 20, 142, 178, 232, 432, 734, 1187, 733, 779, 10000, 0.67, 114, 996.
+Fiebre bubonica: 500.
+Fiebre del Heno: 880, 787, 727, 20, 14, 17, 58.
+Fiebre glandular, glándulas suprarrenals: 24000, 10000, 20.
+Fiebre glandular, paratiroides: 10000, 20.
+Fiebre glandular, tiroides: 16000, 10000, 20.
+Fiebre Q (enfermedad infecciosa por Rickettsia, Coxiella burnetii, Typhoid, Cytomegalovirus, Salmonella): 1522, 717, 972, 664, 643.
+Fiebre wolhynia (debido a Rictesia): 547, 356. Fiebre, insolación: 20, 440, 880, 5000.
+Fiebre, varias causas: 880, 800, 832, 422, 2112, 787, 727, 20, 14, 17, 58, 5000, 5000.
+Filariose (filariasis): 112, 120.
+Filariosis (lombrices en sangre o organos de mamiferos): 112, 120, 332, 753. Fischpyrogen: 832.
+Fischpyrogen: 832.
+Fistula dental: 550, 727, 844, 878, 1122.
+Fistula, ulcera: 880, 832, 787, 727, 14,15, 17, 20.
+Fisuras: 787, 20, 10000.
+Flebitis: 1500, 776.
+Fluor Alb (homeopatico): 110, 342, 420, 423, 688, 757.
+Foliculitis: 174, 482, 5311.
+Forunculosis secundaria: 17, 20.
+Forunculosis: 14, 11, 16, 17, 20, 28, 106, 107, 109.
+Forunculosis: 200, 1000, 1550, 802, 787, 727.
+Forunculosis: 880, 1550, 802, 787, 727, 465, 660, 20, 116, 770, 38, 13, 11, 16. Fracturas: 220, 230, 10000, 880, 787, 727, 37 y 36, 1, 14, 17, 20.
+Fracturas: 220, 230, 10000, 880, 787, 727.
+Frigidez en la mujer: 10000, 20.
+Fusarium general (hongo): 768, 625, 746.
+Fusarium oxysporum (hongo): 102, 332, 705, 795, 780.
+Gangrena: 880, 787, 727, 20, 73, 14, 17, 20, 58, 47.
+Gardinerella (bacteria): 320, 695, 782, 995, 329, 485.
+Garganta , dolor (faringitis):4, 5, 9, 10, 11 + 16, 14, 17, 18, 20, 28, 107, 123.
+Garganta , dolor (faringitis, estreptococo, Actinomyces israelii): 2720, 2489, 1800, 1600, 1550, 802, 880, 787, 776, 727, 46.5, 766.
+Garganta, inflamacion: 727, 787, 800, 880.
+Garganta,” picor,cosquilleo” cronico: 120, 666, 690, 727, 787, 800, 880, 1560, 1840, 1998, 766, 776.
+Garrapata: 6634, 285, 308.
+Gasoden: 878.
+Gastritis y flatulencias: 880, 832, 802, 787, 727, 676, 422, 20, 14, 15, 17, 58.
+General, profilaxis: 20, 64, 95, 125, 225, 427, 440, 664, 728, 784, 880, 802, 832, 680, 760, 1550, 464, 10000, 676, 1488.
+Geotrichum candidum (hongo): 350, 355, 384, 386, 403, 404, 407, 409, 410, 412, 415, 418, 543, 544, 687, 987, 988, 737, 700.
+Giardia: 334, 4334, 5429, 829, 812, 2018, 407.
+Gingivitis, Piorrea: 11, 14, 16,17, 20, 28, 58.
+Gingivitis: 1550, 880, 802, 787, 728, 726, 465, 20, 1556, 776, 465.
+Gingivitis: 880, 787, 776, 726, 465.
+Glandular, fiebre: 10000, 20, 727, 787, 880, 16000
+Glaucoma: 10, 14, 17, 20, 1600.
+Glaucoma: 1600, 1830, 880, 787, 727, 5000.
+Glioblastoma, neo: 720, 2008, 2128, 2180, 2182, 728, 832, 800, 664, 20, 855, 543, 641, 463, 466.
+Gliocladium (hongo en cerebro): 855, 469, 633. Glioma: 543, 641, 857.
+Glioma: 543, 641.
+Gónada, inflamación: 727, 787, 880, 5000, 10000. Gonalgia: 10000, 20.
+Gonalgia: 20, 727, 787, 800, 880, 10000, 754, 756, 11, 14, 16, 17, 55, 58, 69, 78, 82, 34, 82, 62, 63.
+Gonorrea: 660, 600, 712, 727, 787, 880.
+Gota: 9.39, 3000, 10000, 880, 787, 727, 20, 63, 3, 14, 17, 20, 58. Granuloma dental: 441.
+Graves , enfermedad i bocio: 20, 727, 787, 880.
+Green Dye - 563, 2333.
+Grietas: 20, 727, 787, 880, 10000.
+Gripe (mutaciones nuevas): 1550, 880, 787, 727, 20.
+Gripe año 78: 844, 849.
+Gripe año 79: 123.
+Gripe año 83: 730, 734.
+Gripe año 86: 532.
+Gripe año 87: 332, 953.
+Gripe año 89: 322.
+Gripe año 89: 353.
+Gripe año 90: 656.
+Gripe asiatica A: 516, 656, 434.
+Gripe en cerdos: 432, 839.
+Gripe española: 462.
+Gripe Nosode Triple: 421, 632, 1242, 1422, 1922, 3122. 
+Gripe V: 861.
+Gripe V-3: 550, 553.
+Gripe V-4: 232, 352.
+Gripe V-5: 945
+Gripe VA 2-L: 447.
+Gripe Va: 833.
+Gripe: 11, 14, 16, 17, 20, 58.
+Gripe: 343, 512, 862, 3012, 3423, 10, 223. 
+Gripe: 727, 787, 880.
+Gripe: 880, 800, 787, 727, 20.
+Haemofilia: 778, 845, 751.
+Haemophilus Influenza tipo B: 652, 942. Halitosis: 11, 16, 14, 17, 20, 58. Halitosis: 1550, 802, 880, 787, 727, 20. Hastoiditis: 287.
+Heliobacterium pylori (1): 2167, 728, 880, 2950.
+Heliobacterium pylori (ulcera de estomago): 676.
+Helminthosporium (parte reproductiva de parasitos tipo lombrices): 793, 969.
+Helminthsporium: 793, 969, 164, 5243.
+Hematomas: 9.1, 110, 10000.
+Hemobartinella felis: 603, 957.
+Hemofilia: 845, 603.
+Hemofilus influenza: 542.
+Hemoglobina, mejorar su produccion: 2452  Hemorragia: 1550, 802.
+Hemorragia: 800, 802, 1550, 10000, 11, 16.
+Hemorroides: 11, 14, 16, 20.
+Hemorroides: 4474, 6117, 774, 1550, 447, 880, 802, 727.
+Hepatitis A: 321, 346, 414, 423, 487, 558, 578, 693, 786, 878, 3220, 717. Hepatitis B: 334, 433, 767, 869, 876, 477, 574, 752, 779.
+Hepatitis C: 166, 224, 317, 329, 528, 633, 929, 930, 931, 932, 933, 1371, 2189.
+Hepatitis, general secundaria: 284, 458, 477, 534, 788, 922, 9670, 768, 777, 1041.
+Hepatitis, general: 28, 1550, 1351, 880, 802, 727, 224, 317, 329, 477, 922. 
+Hepatitis: 552, 932, 953.
+Hepatitis: 82 y 55, 11, 14, 16, 20.
+Herida, curar, cicatrizar (antiseptico general): 2720, 880, 787, 727, 220, 190, 20, 40,.14,17, 20, 37, 39, 58, 53.
+Hernia de disco: 727, 787, 2720, 10000.
+Hernia discal reducir la inflamación: 25.4 ; 324 , 15 .r, Hernia discal: 727, 787, 10000, 1, 17, 20.
+Hernia: 10000, 787, 727, 2720, 5000.
+Herpes genital (tipo II): 141, 878, 898, 5310, 440, 171, 660, 590, 1175.
+Herpes simple 1 (3): 470, 647, 648, 650-659, 847, 5641, 8650.
+Herpes simple 1 (4): 2950.
+Herpes simple I (1): 339, 343, 480, 591, 778, 782, 843, 1614, 657, 699, 700, 734, 467.8, 935.5, 1871, 3742, 7484
+Herpes simple I (2): 2489, 1800, 465, 1550, 1500, 880, 787, 727, 1850, 428.
+Herpes simple II: 556, 832.
+Herpes simple IU: 2: 808
+Herpes simple tipo I: 322, 476, 589, 664, 785, 822, 895, 944, 1043, 1614, 2062, 2950, 467.8, 935.5, 1871, 3742, 7484.
+Herpes simple, Herpes Zoster: 11, 16, 9, 86, 14, 17, 20, 58. 1550. Herpes tipo 2 A: 532, 848.
+Herpes tipo 2A secundario: 360, 373, 528, 685, 846, 880, 888, 8778, 540, 665, 716, 717, 718, 731, 732, 733, 776, 1402.
+Herpes tipo 5 (citomegalovirus): 126, 597, 1045, 2145.
+Herpes tipo 6: 228, 1820, 3640, 7281.
+Herpes tipo C: 395, 424, 460, 533, 554, 701, 745, 2450.
+Herpes zoster, secundario: 14, 17, 20, 58, 1900, 727, 880, 37000, 1550, 802, 1800, 1865, 728, 2720, 2128, 5000, 464, 800, 574, 1557, 304.
+Herpes zoster: 2720, 2170, 1800, 1600, 1500, 1550, 1800, 1865, 880, 787, 727, 20, 2489, (30 min), 4, 9, 6, 10, 11, 12, 16, 86, 3343, 914, 802, 664.
+Herpes, forunculosis, enfer de la piel: 200, 1000, 1550. 
+Herpes, forunculosis, secundaria: 787, 727.
+HGH (Pituitaria): 645 ., 1725 , 1342 
+Hidrocele: 880, 787, 727, 14, 17, 20.
+Hidropesía: 727, 787, 10000.
+Hierba del prado, alergia: 422, 767, 847, 971, 644, 780. Hígado, bilis, colesterol: 21.34.
+Higado, estimular su función: 751 
+Hígado, hepatomegalia: 727, 787, 880, 2489.
+Hígado: 33.13, 1552, 802.
+Hiperacidez: 146, 727, 776, 787, 880, 10000, 1, 14, 16, 17, 18, 58, 88, 1000, 48, 7.82, 20, 230.
+Hiperacidez: 20, 727, 787, 880, 5000, 10000.
+Hiperosmia: 20, 10000, 522, 146, 58, 1, 87, 88.
+Hipertension (diastolica alta): 9.19, 6, 58, 45, 65, 72, 1, 14, 17, 20.
+Hipertension arterial: 10000, 880, 787, 727, 1, 14, 17, 20, 65.
+Hipertension arterial: 304, 728, 880, 787, 727, 9.19, 20, 95, 9.19, 7.83, 6, 10000.
+Hipertension espastica: 45, 45, 95. 
+Hipertermia: 20, 727, 787, 880. 
+Hipertiroidismo: 3, 0.5, 78 y 85. Hipertrofia cardiaca: 5000.
+Hipo: 20, 10000.
+Hipoacidez de estomago: 58.
+Hipocondrio: 20, 10000.
+Hipofisis: 4.
+Hipotalamo, estimular: 1534 , 1413 , 1351  Hipotension arterial: 20, 727, 787, 880, 14, 17, 58, 10000, 364.
+Hipotiroidea: 60 y 54.
+Hipotiroidismo: 12, 35, 16000, 10000, 160, 80, 20.
+Hipoxia: 727, 787, 880, 10000.
+Hipoxia: 727, 787, 880, 10000.
+Hirudo medicinalis (remedio homeopatico): 128.
+Histeria: 20, 727, 787, 880, 5000.
+Histoplasma: 424, 616, 749.
+HIV: 683, 714, 3554, 830, 450.
+Hodgkins: 552, 1522.
+Hombro , congelado: 10000, 880, 802, 787, 727, 1, 14, 16, 17, 20.
+Hombro agarrotado: 10000, 727, 766, 20.
+Hombro congelado: 10000, 880, 787, 727.
+Hongo (Adams): 943, 2644.
+Hongo, cervical (tambien usar Candida): 788, 706, 771.
+Hongo, general (tambien usar candida): 72, 254, 375, 522, 582, 787, 876, 987, 414, 422, 465, 582, 787, 1016, 2222.
+Hongo,levadura de panadero: 843, 775.
+Hongos y mohos, general: 728, 880, 784, 464, 886, 866, 414, 254, 344, 2411, 321, 555, 942, 337, 766, 1823, 524, 374, 743, 132, 866.
+Hongos, flora (1): 331, 336, 555, 587, 632, 688, 757, 882, 884, 887. 
+Hongos, flora: 632, 854.
+Hongos, general: 72, 254, 422, 582, 787, 1016, 1134, 1153, 2222, 465, 1550, 784, 880, 802, 727, 20.
+Hongos, infeccion: 28, 11, 14, 16, 20, 58, 465. Hongos, infeccion: 465, 1550, 880, 727, 20. 
+Hormodendrum (hongo): 663, 678, 695, 532, 627. 
+Hormonal, balance: 5.5.
+Hostilidad en perros y gatos: 3.6.
+Huesos estimular la curación: 7.0 . 
+Huesos, regeneracion: 2720, 10000.
+Ictericia (hígado):10, 11, 12, 14, 16, 25, 26, 27, 29 + 86, 88, 34, 42, 45, 48, 58. Ictericia, hemolitica: 243, 768.
+Ictericia: 1600, 1550, 1500, 880, 802, 650, 625, 600, 444, 1865, 146, 250, 125, 95, 72, 20.
+Ileocolitis: 802, 832.
+Impotencia: 63, 7, 8, 28, 14, 16, 17, 20 + 22 + 24, 42, 45, 47,48, 58, 25 + 26 + 27.
+Impotencia: 9.39, 2127, 2008, 465, 10000, 880, 802, 787, 727, 690, 666, 125, 95, 73, 72, 20, 650, 625, 600.
+Inconsciente: 20, 800, 5000.
+Incontinencia urinaria o enuresis: 880, 1550, 802, 787, 727, 465, 14, 11+ 16, 17, 20, 28.
+Indigestion: 1, 14, 17, 20, 28, 29, 58, 42, 45, 48, 74.
+Indigestion: 10000, 880, 787, 727, 465, 444, 20, 125, 95, 72, 4.9.
+Infeccion oportunista: 3, 45, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29 + 86, 42, 45, 48, 58, 87, 103, 104, 105, 106, 107, 109, 110, 111, 112, 114, 116, 117, 118, 119.
+Infecion general secundaria: 5000, 1600, 1500, 832, 776, 760, 700, 690, 666, 650, 625, 600, 1865, 500, 450, 440, 428, 660, 2112.
+Infecion general terciaria: 1800, 2720, 2489, 832, 3040, 2008, 1850, 610, 732, 751, 40000.
+Infecion general: 1550, 880, 802, 786, 728, 465, 444, 125, 95, 72, 48, 20, 304, 1.2, 5500, 676, 422, 766, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 42, 45, 48, 58, 86, 101, 103, 104, 105, 106.
+Infertilidad: 2127, 2008, 465, 880, 802, 787, 727, 690, 666, 650, 625, 600, 9.39 
+Infertilidad: 7, 8, 28, 14, 16, 17, 20 + 22 + 24, 25 + 26 + 27, 63.
+Inflamación , glandulas: 800, 787, 727, 20.
+Inflamacion de articulaciones: 10000.
+Inflamacion, general: 1.5, 3.6, 81. 
+Inflamación, glandulas: 14, 17, 20, 58. 
+Influe Bach Poly: 122, 823.
+Influencinum Berlin '55: 430, 720, 733, 787.
+Influencinum vesic NW: 332, 364, 519, 588, 590, 238, 239, 715.
+Influencinum Vesic NW: 364.
+Influencinum vesic SW: 433, 645, 658, 824.
+Influencinum Vesic: 203, 292, 975.
+Influencinum vesica general: 203, 292, 588, 612, 975, 407, 682.
+Influencinun Berlin 5500, 430, 720, 733.
+Influenza (2) (invierno 99-00): 10000, 880, 727, 330, 728.
+Influenza (3) (invierno 99-00): 440, 465, 613, 666, 727, 787, 800, 1000, 5000, 10000.
+Influenza (mutacion): 1550, 1500, 880, 787, 727, 20. 
+Influenza 1957 "A" Asian: 768, 574.
+Influenza 1978: 844, 814, 610.
+Influenza 1979: 123, 513, 522, 565, 788, 601. 
+Influenza 1983: 424, 730, 734, 428.
+Influenza 1989: 216, 322, 627, 703, 748.
+Influenza 1993 secundaria: 207, 254, 580, 848, 947, 7967, 8910, 739, 741, 760, 765, 773, 915.
+Influenza 1993: 522, 615, 778, 850, 959.
+Influenza 1994 secundaria: 337, 690, 868, 869, 702, 727, 729, 776, 779.
+Influenza 1994: 689, 697, 699, 798.
+Influenza 1997 a 1998: 2008, 880, 787, 727, 35, 20, 465.
+Influenza Bach Poly: 122, 350, 487, 572, 634, 768, 823, 1043, 1272, 764, 771.
+Influenza con componente respiratorio: 47, 1191, 2398, 2544, 5608, 7760, 7766, 672-679, 676, 647-652, 1215, 724-732, 746, 768, 687.
+Influenza española: 462, 787.
+Influenza gripe asiatica A: 516, 656, 434.
+Influenza hemofilus tipo B: 652, 942, 483, 731, 746.
+Influenza hemofilus: 542, 552, 885, 959, 734.
+Influenza triple nosode: 421, 632, 1242, 1422, 1922, 3122. Influenza V gripe: 861.
+Influenza V-2 gripe: 324, 652, 653.
+Influenza V-3 gripe: 550, 553.
+Influenza V-4 gripe: 232, 352, 2558.
+Influenza V-5 gripe: 945, 518.
+Influenza V-75 Victoria: 343, 316, 1020.
+Influenza VA-2 gripe: 334, 472, 496, 833, 836, 922, 728.
+Influenza VA-2L gripe: 447.
+Influenza virus "A" 1974: 442.
+Influenza virus "A" Port Chalmers: 622, 863.
+Influenza virus "A": 322, 332, 776.
+Influenza virus "B" Hong Kong: 555.
+Influenza virus "B": 468, 530, 532, 536, 537, 568, 722, 740s, 1186, 679.
+Influenza virus "swine": 413, 432, 663, 839, 995.
+Influenza virus 1991 a 1992: 153, 345, 387, 758, 984, 985.
+Influenza virus 1992 a 1993 secundaria: 272, 534, 566, 668, 674, 776, 782, 947, 632, 640, 713, 715, 742, 773, 777.
+Influenza virus 1992 a 1993: 535, 946.
+Influenza virus 1993 a 1994 secundario: 447, 457, 597, 756, 764, 776, 798, 878, 967, 9090, 663, 720, 728, 729, 745, 762, 764, 770, 773, 779.
+Influenza virus 1993 a 1994: 757, 885, 895, 969. Influenza virus British: 558, 932.
+Influenza virus, general: 728, 800, 880, 7760, 8000, 8250. 
+Influenza(resfriado o gripe): 20, 727, 787, 800, 880. 
+Influenza, gripe 1986 tri: 532, 588, 660s, 994, 462, 712. 
+Influenza, gripe 1987: 140, 332, 581, 953, 4868, 730.
+Influenza, gripe 1988: 267, 536, 568, 2050, 752, 781.
+Influenza, gripe 1989: 353, 536, 874.
+Influenza, gripe 1990: 541, 560, 656.
+Influenza, gripe general: 343, 500, 512, 541, 862, 1000, 1192, 3012, 3423, 10223.
+Influenza, gripe, vapch: 153, 343.
+Influenza: 464, 440, 3672, 7766, 7760, 7344, 1234, 5000, 727, 787, 800, 875, 880, 885, 728, 1550, 1500, 2008, 20, 304, 11,16, 12, 14, 17, 20, 58.
+Influenzum toxica: 854.
+Inmunitario, estimulacion: 8, 1862, 2008, 2128, 2180, 3347, 5611, 2791, 3448, 2929, 4O14, 5611, 2867, 2855, 432, 835 .
+Inocine estimular Produccion (stroke recovery, etc.): 2642.
+Insectos , picaduras: 880, 727.
+Insolación: 2 9, 104, 39, 3, 45, 87, 88, 14, 58.
+Insolacion: 444, 440, 190, 3000, 95, 522, 146, 880, 20, 10000. 
+Insomnio: 3.59, 3, 7.83, 10, 1550, 1500, 880, 802, 6000, 304. 
+Insomnio: 76, 78, 11, 12, 14 y 16. 10000.
+Insuficiencia renal: 61 y 53, 104, 10, 11, 12, 14, 16, 17, 20, 25, 26, 27, 28, 47, 53, 61, 29 + 86, 88, 34, 42, 45, 48, 58.
+Inteligencia, claridad de pensamiento: 20, 10000.
+Intercostal neuralgia: 3000, 1550, 880, 802, 787, 776, 727, 125, 20, 1865, 444. 
+Intercostal, neuralgia: 3,11, 14, 16, 17,18, 20, 42, 58, 86, 29.
+Interleukina: 3448, 2929, 4O14, 5611, 2867, 2855, 2791.
+Intestinal problemas, colon: 10, 440, 880, 787, 727.
+Intestinal problemas, general: 802.
+Intestino grueso, tonificar: 8, 440, 880.
+Intestino grueso: 10, 440, 880.
+Intestino irritable, sindrome: 20, 727, 787, 880, 1550.
+Intestinos, espasmos: 727, 787, 5000.
+Intestinos, inflamacion: 727, 787, 880, 105, 791.
+Intoxicacion alimentaria: 10000.
+Intoxicacion: 10000.
+Ira: 71.
+Irritabilidad, lloriqueo: 76 ,71.
+Irritabilidad: 500, 3.6.
+Juanete, dolor: 20.
+Kieferosteitis (inflamacion osea): 432, 516, 384.
+Klebsiella pneumoniae:766, 412, 766, 776, 413, 840, 746, 765, 779, 783, 818.
+Lactancia insuficiente: 5000. Laringe, polipos: 765, 202.
+Laringe: 10, 440, 465, 444, 1550, 880, 802, 787, 727, 28, 7.69, 3, 1.2, 250, 9.6, 9.39.
+Laringe: 104, 28, 29, 11, 14, 16,17, 20, 55, 69, 78, 82, 34, 82, 62 , 63, 20, 440, 880.
+Latigazo: 20, 2720, 10000.
+Laxante, suave: 20, 727, 787, 800, 880, 802. 
+Laxante, suave: 802.
+Legionella: 723, 724, 897, 975, 8120, 8856, 690, 693. Leishmania braziliensis: 787.
+Leishmania donovan: 525, 781. 
+Leishmania tropica: 791.
+Lepra infección secundaria: 1600, 1550, 1500, 880, 832, 802, 787, 776, 760, 727, 700, 690, 666, 650, 625, 600, 465, 444, 20, 500, 450, 440, 428, 660.
+Lepra: 600, 10, 11, 12, 14, 15, 16, 17, 18,19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 58, 101, 103, 104,105,106, 800.
+Lepra: 600.
+Leptospirosis: 612, 663.
+Leucemia linfatica: 478, 833.
+Leucemia mieloide: 422, 822.
+Leucemia mieloide: 422, 822.
+Leucemia, celulas T: 222, 262, 822, 3042, 3734.
+Leucemia, felina: 424, 830, 901, 918.
+Leucemia, neo: 2127, 2008, 880, 787, 727, 690, 666, 2217.
+Leucemia: 122, 622, 932, 5122, 488, 781.
+Leucemia: 2127, 2008, 880, 787, 727, 690, 666, 7, 8, 14, 17, 20, 22, 24.666, 690, 727.
+Leucemia: 478.
+Leucocitogenesis, estimular: 20, 727.
+Leucocitos: 20, 727, 5000.
+Leucodermia, vitiligo: 20, 727, 787, 880, 444, 14, 17, 20, 29, 58, 107.
+Leucoencefalitis secundaria: 338, 783, 932, 1035, 1160, 1630, 712, 713, 715, 1244.
+Leucoencefalitis: 324, 572, 776, 934, 1079, 1111, 1333. 
+Leucoencefalitis: 572, 932, 1111.
+Leucoencefalitis: 572.
+Leucoplaquia: 465, 2127, 2008, 727, 690, 666. Leucorrea: 880, 787, 727.
+Leucosis: 612, 633, 653, 3722, 644.
+Levadura del pan, alergia: 775, 843.
+Ligamentos estimular la curación: 9.7 . Limfangitis: 574, 778, 1120, 1078, 3176. 
+LimfátIcas, glandulas: 10, 440, 727, 787, 880, 5000. 
+Limfática, glándula (bloqueo o sobrecarga): 10000. 
+Limfática, Leucemia: 833.
+Limfáticas glándulas, estimular: 10000, 465. 
+Limfatico , depresor: 727, 787, 880, 5000.
+Limfatico, estasis, secunadrio:(Limfangitis): 6.3, 148, 522, 146, 444, 440, 880, 787, 727, 10000, 2.5, 465, 10.
+Limfatico, soporte: 15.05, 10.36, 3176. 
+Limfogranuloma (vease Hodgkins): 1522.
+Limfosarcoma: 482.
+Linfatico, estasis: 148, 522, 146, 444, 440, 880, 787, 727, 71 y 41, 87, 88, 29, 104,14, 17, 20.
+Linfatico, estasis: 3176.
+Linfatico, incrementar su funcion: 15 , 15.2
+Linfático, placa: 596, 346.
+Linfatico, sistema, estimular su función: 676 
+Linfáticos nodulos en cuello, inflamación: 465.
+Lipoma: 47, 606, 709, 84.
+Lipotimia: 20.
+Listeriosis: 377, 471, 626, 628, 634, 774, 2162, 7867, 714, 724.
+L-lisina (estimulante): 195.5, 391, 782, 1564.1, 3128.2, 6256.4.
+Locomotor , ataxia ,fallo muscular: 727, 787, 880, 10000, 1, 14, 17, 18, 20, 25, 26, 27, 29 + 86, 42, 45, 48, 58.
+Locomotor, disfuncion ,incoordinacion: 10000, 880, 787, 776, 727, 650, 625, 600, 444, 1865, 125, 95, 72, 20.
+Lombrices (parasitos): 20, 800, 5000, 100, 120, 524, 854, 143, 275, 676, 763, 524, 854, 945, 651, 435, 524.
+Lombrices con anillo: 20, 727, 787, 880, 120. 
+Lombrices redondas: 650.
+Lombrices: 42, 45, 48, 58, 29 + 86. 20, 60, 80, 120, 125, 440. 125 95 72 20 444 1865. 60 to 125.
+Lues / Sífilis (luesinum/Sifilinum):177.
+Lumbago: 10000, 800, 880, 787, 727, 125, 95, 72, 444, 1865, 9.19, 8.25, 7.69, 300.
+Lumbago: 11, 14, 17, 20, 42, 45, 48, 29 + 86, 65, 67, 69. 
+Lumbares deformadas: 727, 787, 880, 10000
+Lupus eritematoso: 633, 2125, 2008, 3612, 802, 2489, 702.
+Lupus eritematoso: 727, 787, 880, 776, 1850.
+Lupus eritematoso: 880, 787, 727, 776, 1850, 14, 17, 20, 18, 102.
+Lupus general secundario: 205, 244, 352, 633, 847, 921, 993, 1333, 1464, 7865, 771.
+Lupus SLE secundario:2180, 2128, 2008, 1552, 880, 784, 664, 304, 386, 678, 481.
+Lupus vulgaris: 727, 787, 800, 880, 776, 1550, 2489, 10000, 800.
+Lupus: 243, 352, 386, 921, 942, 993, 1333, 1464. 
+Luxacion: 66 y 43.
+Luxacion: 9.1, 110, 66, 43.
+Lyme secundario: 254, 525, 597, 644, 885, 699.
+Lyme terciario: 306, 432, 484, 610, 625, 690, 864, 2016, 790.
+Lyme, enfermedad: 432, 800, 4200, 338, 344, 345, 605, 673, 758, 797, 884, 1455, 6863, 6870, 533, 534, 732.
+Lyssinum: 547, 793.
+Magnesio: 480.
+Malabsorcion, sindrome: 727, 787, 880, 800, 1552, 3000. 
+Malaria (1): 20, 555.
+Malaria (2):20, 28, 787, 880.
+Malaria: 20, 222, 550, 713, 930, 1032, 1433, 455, 743. Malaria: 20, 28, 787, 880, 555.
+Malaria: 20.
+Mamas fibroquisticas: 267.
+Martillo, hueso oreja: 1273.
+Mastitis: 654, 698. Mastoiditis: 287.
+Medorrhinum (nosode homeopatico): 230, 442, 554, 843, 854, 1700, 1880, 2222, 602.
+Melancolia: 5000.
+Melanoma metastasis: 979.
+Melanoma, Metastasis: 979.
+Membranas mucosas, inflamacion: 380, 31.
+Memoria: 10000, 20.
+Menier: 1550, 880, 787, 727, 465, 428, 10000, 5000, 800, 20, 11 + 16, 14, 17, 20, 28, 105, 107, 109.
+Meningioma: 446, 535, 537.
+Meningitis secundaria: 130, 676, 677, 507.
+Meningitis terciaria: 1550, 802, 880, 832, 787, 727, 650, 625, 600, 465, 444, 1865, 125, 95, 72, 20, 428, 660.
+Meningitis: 1550, 880, 832, 787, 727, 650, 625, 600, 465, 444, 1865, 125, 95, 72, 20, 428, 660, 5000, 322, 822, 1044, 1422, 11 + 16, 14, 15, 17, 20, 25, 26, 27, 28, 29 + 86, 42, 45, 48, 58, 105, 106.
+Meningococcinum: 676, 677, 517. 
+Meningococo: 720.
+Menopausia, olas de calor: 1, 14 , 17, 20.
+Menopausia, olas de calor: 10000, 880, 787, 727.
+Menstruación, amenorrea: 727, 787, 880, 10000.
+Menstruales, problemas: 57, 333, 14, 17, 20, 28, 58.
+Menstruales, problemas: 880, 1550, 802, 787, 727, 465, 20.
+Mental irritabilidad: 20, 727, 787, 880, 10000.
+Mental, claridad: 60.
+Mental claridad, estimular: 35 
+Mental, desorden: 87, 88 , 19 42, 45, 48, 58, 74, 105, 11, 16.
+Mental, desordenes: 522, 146, 10000, 125, 95, 72, 20, 4.9, 428, 550, 802. 
+Mental, retardo: 10000.
+Mental, transtorno, por problema hereditario: 5000.
+Metabolismo del calcio, estimular: 328 
+Metales pesados , eliminación: 30000.
+Meteorismo: 11, 14, 16, 17, 19, 20, 28.
+Meteorismo: 1550, 880, 802, 787, 727, 465, 5000, 1550, 1, 14, 17, 20. 
+Meteorismo: 5000, 20.
+Metrotexate: 584.
+Micosis fungoide: 532, 662, 678, 852, 1444.
+Microsporum audouini (hongo): 422, 831, 1222, 285.
+Microsporum canis (hongo): 347, 970, 1644, 402, 650. 
+Miedo obsesivo: 10000.
+Miedo: 73.
+Miedos: 727, 787, 880, 10000.
+Mieloma multiple: 728.
+Migraña: 10, 40, 61.
+Miocarditis necrosada: 706, 789.
+Miocarditis: 279, 761, 5000.
+Mioma: 253, 420, 453, 832.
+Miositis: 120, 122, 125, 129, 1124, 1169, 762. 
+Mohos A & C: 331, 732, 923, 982.
+Mohos Mixtos B (P. Williams): 158, 512, 1463, 623, 774, 1016. 
+Mohos Mixtos C: 1627.
+Mohos Vac II: 257.
+Mohos y hongos, general: 728, 880, 784, 464, 886, 414, 254, 344, 2411, 321, 555, 942, 337, 766, 1823, 524, 374, 743, 132, 866, 222, 242, 523, 565, 592, 623, 745, 933, 1130, 1155, 1333, 1833, 4442.
+Mongolismo: 20, 5000. Monilia: 866.
+Mononucleosis: 660, 728, 787.
+Monotospora languinosa (homeopatia): 788.
+Moquillo: 242, 253, 254, 255, 312, 442, 551, 573, 624, 671, 712, 760, 940, 950, 1269, 1950, 8567, 660.
+Morbillinum, sarrampion: 20.
+Morbillinum: 467, 520, 1489.
+Mordeduras de insectos: 727, 787, 880, 5000.
+Mosca de la fruta: 2167.
+Movimiento, enfermedad del movimiento-locomoción: 25, 26, 27, 28, 29 + 86, 87, 88, 42, 45, 48, 58.
+Mucocutan perniciosis: 833, 667, 756.
+Mucor mucedo: 612, 1000, 488, 766, 9788, 735.
+Mucor plumbeus: 361, 578, 785, 877.
+Mucor racemosis secundaria: 473, 686, 871, 873, 876, 878, 887, 7768, 7976, 8788, 713, 729, 731, 751, 760, 778, 1200.
+Mucor racemosis: 310, 474, 875.
+Mucosas, membrana, inflamacion general: 380. Mucosas: 727, 787, 800, 880.
+Muscular dolor: 2720, 6000, 320, 250, 240, 160, 125, 80, 40, 20, 10, 5.8, 2.5, 1.5, 1.2, 1, 0.5.
+Muscular, distrofia: 153, 5000, 522, 146, 880, 787, 727, 2900, 87, 88, 14, 17, 20. 5000.
+Muscular, distrofia: 153, 522, 146, 880, 787, 727.
+Muscular, dolor: 6.8, 33, 34, 35, 40, 42, 46, 53, 58, 61, 73. 80, 81,82, 84, 85.
+Musculo del corazon: 5000.
+Musculo, reparacion: 5000.
+Musculo, tonico: 20, 120, 240, 300, 304, 328, 728, 880, 5000, 10000.
+Musculos agarrotados: 320, 328, 304, 300, 240, 160, 776, 728, 1800, 125, 80, 40, 20, 6000, 250, 250, 10, 5.8, 2.5, 1.5, 1.2, 1, 0.5, 1550, 802, 880, 787, 776.
+Músculos estimular la curación: 13.5 .
+Musculos tensos (relax): 20, 120, 240, 760, 19 y 70, 20, 120, 240. 
+Musculos, relajar: 965, 20, 120, 240, 760, 6.8, 6000, 304. 
+Mycobacterium avium: 642.2, 700.9, 769.6, 803.4, 818.5, 1001.2, 858.2, 786.7, 625.9, 674.3, 953.6, 1180, 1148.3, 773.3, 615.7, 608.4, 770.6, 896.9, 694.1, 680.8, 632.2, 619.7, 680.4, 857.6, 860.2, 590, 825.7, 824.5, 830, 937.4, 529.3, 1058.6, 2117.1, 617.8, 1235.7, 2471.3, 1037.5, 2075.
+Mycogone fungoides secundaria: 328, 367, 490, 491, 495, 496, 628, 678, 761, 766, 768, 1055, 1074, 9979, 709, 714, 729, 746, 757.
+Mycogone fungoides: 488, 532, 662, 764, 852, 1444 Mycogone spp (homeopatia): 371, 446, 1123, 748 Mycoplasma pneumoniae: 688.
+Nagel Mykose: 462, 654.
+Nagel Trichophytie: 133, 812, 2422.
+Nariz ,desordenes: 880, 787, 727.
+N
+Nariz, infeccion, congestion: 1550, 880, 787, 776, 727, 444, 440, 465, 20.
+Nariz: 20, 440, 880
+Nasal, infeccion o congestion: 11 + 16, 14, 17, 18, 20, 29, 104, 28, 58.
+Nausea y calambre o engarrotamiento muscular: 72, 95, 190, 880, 832, 787, 727, 20, 4.9.
+Nauseas: 727, 787, 880, 5000, 832, 20, 72, 95, 190, 304, 14, 15, 17, 20, 58, 74.
+Nefritis, nefrosis: 880, 787, 727, 20, 10000, 40, 73, 465, 14, 17, 20, 61, 53, 47 y 28.
+Nefritis: 1550, 274, 423, 636, 688, 880, 787, 727, 10, 20, 10000, 40, 73, 465, 3000.
+Nefritis: 264.
+Nematodes: 771.
+Neo de higado: (1): 393, 479, 520, 734, 3130. Neo de laringe: 327, 524, 731, 1133.
+Neoplasia (basico): 2128, 2008, 2184, 2084, 2048, 2720, 2452, 6064, 120, 524, 854, 800, 728, 784, 880, 666, 464, 5000, 3176, 10000, 3040.
+Neoplasia general 1: 728, 784, 880, 464, 666, 2720, 800, 120, 2084, 2184, 2050, 524, 2452, 854, 2008, 2128, 5000, 3176, 9999, 304, 7, 8, 14,17, 20+ 24+ 22, 2127.
+Neoplasia, BX virus: 2128, 3713, 2876, 11780000. Neoplasia, BY virus: 2008, 3524.
+Neoplasia, celulas cancerosas: 728.
+Neoplasia, droglioma (glioma, astrocytoma): 853.
+Neoplasia, general, 2: 727, 786, 880, 465, 1552, 802, 1862, 2182, 20, 64, 72, 96, 125, 2450, 2489, 2048, 2008, 2127, 3176, 3040, 10000, 3176, 304.
+Neoplasia, general, 3: 728, 943, 414, 866, 886, 732, 676, 690, 776, 240, 650, 442, 2180, 2454, 1865, 523, 128, 2128, 2008, 2049, 10000, 3176, 304.
+Neoplasia, hígado, fermentative: 214.
+Neoplasia, pecho (1): 2100, 2104, 2116, 2120, 866, 2128, 676, 2152, 166, 2182, 732, 3072, 2150, 1550, 2189, 2112, 3072, 2008, 120, 422, 942, 4412, 1862, 808, 1552, 728, 2720, 1234, 690, 2160, 2136, 477, 28, 317, 96, 3176, 96, 3176, 3040, 2145, 2048, 1830, 2112.
+Neoplasia, pecho (2): 3672, 2008, 2063, 2103, 2128, 2146, 2133, 2162, 2173, 2180, 2189, 2208, 2263, 2289, 2333, 1865, 444, 125, 95, 72, 48.
+Neoplasia, pecho (3): 656, 127, 1582, 478, 982, 2134, 2120, 9000, 9999, 304.
+Neoplasia, tumor fibroso): 1340.
+Neoplasia: 120, 250, 428, 465, 600, 626, 650, 661, 664, 667, 690, 728, 776, 784, 800, 802, 832, 880, 1489, 1550, 1600, 1865, 2000, 2012, 2100, 2170, 2490, 2730.
+Neoplasia: 2127, 2008, 465.
+Neoplasia: 55.56, 6.8, 440, 778, 1050, 1550, 2180, 663, 3672.
+Neoplasia: 663, 727, 778, 787, 880, 1050, 1550, 2008, 2050, 2127, 2180, 2452.
+Neoplasia: 727, 787, 880, 2008, 2120, 2127, 7130.
+Neoplasia: 728, 690, 2008, 2104, 2112, 2120, 2128, 2136, 2144, 2152, 2160, 2168, 2176, 2184, 2192, 2200, 2217, 5000, 9999, 304.
+Nervios: 2.0 
+Nervio desordenes: 10000, 2720, 2489, 2170, 1800, 1600, 1550, 802, 880, 787, 727, 650, 625, 600, 125, 95, 72, 20, 440, 660.
+Nervio motor: 727, 787, 880, 5000. Nervios estimular la curación: 2.0 .
+Nervios, desorden: 10000, 2720, 2489, 2170, 1800, 1600, 1550, 880, 787, 727, 650, 625, 600, 125, 95, 72, 20, 440, 660.
+Nervios, inflamacion: 727, 787, 880, 10000. Nerviosismo, Prozac agitacion: 3, 7.83. 
+Nervioso, sistema, estimular su función: 764 
+Neumococo: 776.
+Neumocystis carnii: 204, 340, 742.
+Neumonia micoplasma: 688, 975, 777, 2688, 660.
+Neumonia: 11, 16, 14, 17, 18, 20, 58, 103, 107. 775, 5000,770,780.
+Neumonia: 11, 16, 14, 17, 18, 20.
+Neumonia: 1238, 1550, 1862, 802, 880, 787, 776, 727, 20, 450, 412, 766, 688, 683, 975, 2688, 660, 770, 780.
+Neumonia: 550, 802, 880, 787, 776, 727, 452, 1474, 578.
+Neumoniae klebsiella: 412, 766, 776, 413, 840, 746, 765, 779, 783, 818. 
+Neuralgia brazo: 20, 727, 787, 880, 10000.
+Neuralgia intercostal: 10000, 802.
+Neuralgia trigeminal: 880.
+Neuralgia: 5000.
+Neuralgia: 75.
+Neuralgia: 833, 3.9, 10000, 75.
+Neuralgia: 833.
+Neurastenia, fatigado: 5000.
+Neuritis, nervio inflamacion: 727, 787, 880, 10000.
+Neuritis: 10000.
+Neurosis, trauma de guerra: 20, 727, 787, 880, 120.
+Neurosis: 28, 28, 727, 787, 880, 10000, 55. 
+Neurosis: 55.
+Neurospora sitophila: 705, 878.
+Nicotina , contaminación: 10000. 
+Nigrospora spp: 302, 350, 764.
+Nocardia asteroides: 228, 231, 237, 694, 719, 887, 2890.
+Nosocomial, Prevencion y control nosocomial e infecciones idiopaticas: 6, 9, 10, 11 + 16, 12, 14, 15, 16, 17, 18, 20, 28, 29, 87, 88, 105, 107, 109.
+Obesidad: 1, 28.
+Occipital Neuralgia: 727 787 880 5000.
+Ocena: 184, 222, 439.
+Oido , patologías diversas: 9.19, 10000, 880, 787, 727, 20, 410, 158, 201, 340, 440, 535, 542, 645, 652, 683, 65, 14, 17, 20, 58.
+Oido, hongos (1): 854.
+Oídos descarga purulenta: 727, 787, 880, 5000, 10000. Oidos, balancearlos: 727, 787, 880, 10000.
+Oídos, dificultad para oir: 20, 727, 787, 880.
+Oidos, dolor: 727, 787, 880, 5000.
+Ojo, degeneración del ojo: 727, 787, 880, 5000, 10000.
+Ojo, desordenes (vision borrosa, cataratas, diplopia, infecciones, etc.): 1830, 1600, 10000, 880, 787, 727, 20, 1552, 160, 350, 360, 2010, 1335, 496, 400, 10, 1, 14, 17, 20, 58, 1600.
+Ojo, dolor: 787, 10000.
+Ojo, inflamacion (efecto antiseptico): 1.2, 80, 82, 46, 1600.
+Ojo, ptosis: 10000, 5000.
+Olas de calor en menopausia: 10000, 880, 787, 727.
+Olfato, excesiva sensibilidad, Hiperosmia: 727, 787, 800, 880, 10000.
+Olfato, pérdida anosmia: 10000, 800, 20.
+Oligodena: 853.
+Onda alfa: 13, 15, 18.
+Onda beta: 14, 22, 32.
+Onda delta: 1.8, 3.5, 5.
+Onda theta: 4, 5.5, 7.
+Oospora: 9599, 5346.
+Oral , erupciones y ganglios linfáticos: 20, 727, 787, 880, 5000, 10000, 28, 7, 8, 22, 24.
+Oral inflamacion: 727, 787, 880.
+Oral lesiones: 4, 5, 8, 9, 10, 11 + 16, 14, 17, 18, 19, 20, 28, 29, 87, 88, 2720, 2489, 2008, 1800, 1600, 1550, 802, 880, 787, 727, 465, 444, 522, 146.
+Ornitosis (o Psitacosis o Fiebre de Parrot: 233, 331, 332, 583, 859, 1217. 
+Orquitis secundaria: 727, 787, 880, 10000.
+Orquitis: 4, 5, 6, 7, 8, 9, 10, 11 + 16, 12, 14, 15, 17, 18, 20 + 22 + 24, 25, 26, 27, 42, 45, 48, 58, 110.
+Orzuelo: 1, 14, 17, 20, 58.
+Orzuelo:10000, 880, 787, 727, 20, 453, 2600, 5000.
+Óseo y periodontal, patología: 47.5, 1800, 1600, 650, 625, 600, 880, 787, 776, 727, 51, 9, 10, 25, 26, 27, 14, 17, 18, 20.
+Osteitis: 770.
+Osteoartritis (patología articular): 1500, 770, 727, 787, 880, 1500. Osteoitis: 2.65.
+Osteomielitis: 11 + 16, 12, 14, 15, 17, 18, 20 + 22 + 24, 79, 4, 5, 6, 7, 8, 9, 1, 5000, 2720, 2489, 2170, 2127, 2008, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 690, 666.
+Osteomielosclerosis: 79, 330
+Osteosinusitis maxilar: 243, 327.
+Ostitis: 770, 743, 736, 724.
+Otitis del nadador: 728, 784, 880, 464, 174, 482, 5311. 
+Otitis externa: 727, 787, 880, 174, 482, 5311
+Otosclerosis: 9.19, 65.
+Ovario suprimido, estimulacion: 5000, 20.
+Ovario, desordenes, generales: 650, 625, 600, 465, 444, 26, 2720, 2489, 2170, 2127, 2008, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 690, 666, 20.
+Ovario, estimular: 20.
+Ovario, quiste :567, 982, 711.
+Ovarios: 25 + 26  27, 28, 29, 57, 4, 5, 6, 7, 8, 9, 10, 11 +16, 12, 14, 15, 179 18, 20 + 22 + 24, 58, 880, 787, 727.
+Ovulo: 752.
+Ox bile (remedio homeopatico): 672.
+Palpitaciones: 5000, 727 787 880 10000.
+Panadizo: 657, 659, 738, 751.
+Pancreas, estimular su función: 654 .
+Pancreas, insuficiencia (II): 25 + 26+ 27, 28, 29, 57, 4, 5, 6,7, 8, 9, 1 0, 11 + 16, 12, 14, 15, 17, 18, 20 + 22 + 24, 58.
+Pancreas, insuficiencia: 61 y 34.
+Pancreas: 440, 464, 600, 624, 648, 1552, 727, 787, 880, 10000.
+Pancreas: 727, 787, 880, 15.
+Pancreatica, insuficiencia: 20, 250, 650, 625, 600, 465, 444, 26, 2720, 2489, 2170, 2127, 2008, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 690, 666.
+Paperas, parotiditis, Vacuna: 273, 551, 711, 730, 1419.
+Paperas, parotiditis: 10000, 727, 2720, 2489, 2127, 2008, 428, 880, 787, 20, 242, 516, 642, 922, 2630, 3142, 1, 4, 5, 7, 8, 105, 110, 14, 17, 58. 728.
+Paperas, parotiditis: 152, 242, 642, 674, 922, 190, 235, 516, 1243, 1660, 2630, 3142, 9667, 729, 741, 759, 761, 1170, 10000, 727, 2720, 2489, 2127, 2008, 428, 880, 787, 727, 20.
+Papiloma renal (usualmente benigno): 110, 148, 264, 634, 767, 848, 917, 760, 762, 1102.
+Papiloma renal: 110, 148, 264, 634, 767, 848, 917, 760, 762, 1102.
+Papiloma virus: (causa berrugas y tumores benignos): 45, 489, 874, 907, 16970, 265, 5657, 64734, 1011, 9258, 67265, 1051, 9609, 466, 110, 767, 404.
+Paraceli: 232.
+Paradontosis: 424, 1552.
+Paralisis espastica: 1, 14, 17, 18, 20, 25, 26, 27, 29 + 86, 42, 45, 48, 58, 69. Parálisis espástica: 95 y 50.
+Paralisis infantil (polio): 1500, 880, 787, 727, 776, 10000, 12, 14, 17, 20.
+Paralisis no espastica: 1, 14, 17, 18, 20, 25, 26, 27, 29 + 86, 42, 45, 48, 58, 65, 67.
+Paralisis, espastica: 10000, 880, 787, 776, 727, 650, 625, 600, 444, 1865, 125, 95, 72, 20, 7.69.
+Paralisis, no espastica: 10000, 880, 787, 776, 727, 650, 625, 600, 444, 1865, 125, 95, 72, 20, 9.19, 8.25.
+Paralisis, semi: 5000, 20.
+Parálisis: 40, 1800, 880, 787, 727, 650, 625, 600, 125, 95, 72, 1865, 522, 428.
+Paramecium caudatum: 4500, 1150, 2298.
+Parasitos de los perros alojado en el corazón y en la arteria pulmona: 543, 2322, 200, 535, 1077, 799.
+Parasitos, en higado de ovejas: 826, 830, 834.
+Parasitos, en higado: 143, 275, 676, 763, 238, 6641, 6672.
+Parasitos, en pancreas: 1850, 2000, 2003, 2008, 2013, 2050, 2080, 6578.
+Parasitos, en sangre: 847, 867, 329, 419, 635, 7391, 5516, 9889.
+Parasitos, en sistema linfatico: 10050, 157.
+Parasitos, general: 143, 275, 435, 676, 763, 524, 854, 945, 651, 664, 6766, 435, 15244.
+Parasitos, intestinales: 651, 676, 844, 848, 854, 2128, 2084, 2150, 6766. Parasitos, strongyloides (ascaride) 332, 422, 721, 732, 749, 942, 3212, 4412.
+Parasitos: 20, 60, 727, 787, 800, 880, 120, 125, 95, 72, 440, 444, 1865. Parasitos: 42, 45, 48, 58, 29 + 86.20, 60, 95, 125.
+Paratiroides: 727 787 880.
+Paresia: 9.4.
+Parestesias: 5.5.
+Parkinson , enfermedad: 693, 813, 1.1, 5000, 1131.
+Parkinson, temblor pequeño, alivio temporal: 6000, 130, 169. 
+Parkinson, temblor: 6000, 130, 169.
+Parkinson: 693, 813, 1.1, 5000, 1131, 33. 
+Parkison: 813.
+Parlomspms enfermedad: 38000, 16000.
+Parpadeo: 3120.
+Parvovirus canine: 637, 185, 323, 562, 613, 622, 1000, 4027.
+Parvovirus, canine type B: 323, 535, 613, 755.
+Parvovirus, canine variedad mutada: 323, 514.
+Parvovirus, nueva cepa: 2257, 488, 488.
+Pasteurella combinacion (enfermedad bacteriana que se transmite por mordedura de animales): 323, 913, 694.
+Pecho, infeccion secundaria: 72, 333, 452, 683.
+Pecho, quiste fibroso: 880, 1550, 787, 776, 727, 690, 666. 267, 1384, 14, 11, 16, 17, 18, 20, 22, 24.
+Pelo: 646.
+Pelvica, enfermedad inflamatoria: 2720, 2489, 2170, 2127, 2008, 1800, 1600, 1550, 802, 787, 776, 727, 690, 666, 650, 625, 600, 465, 444, 522, 95, 72, 450, 428.
+Pelvico, desordenes: 20, 60, 660, 727, 787, 880, 660, 1500. Pemniciosis: 232, 622, 822, 4211.
+Pemphigus (enfermedad de piel autoinmune caracterizada por ampollas en piel y membranas mucosas): 694, 893, 665.
+Penicillium chyrosogenium secundario: 345, 688, 868, 1070, 2411, 728, 764, 765.
+Penicillium chyrosogenium: 129, 249, 344, 967.
+Penicillium notatum secundaria: 321, 550, 555, 556, 558, 560, 562, 566, 572, 644, 825, 922, 942, 4870, 7780, 412, 715.
+Penicillium notatum: 334, 629.
+Penicillium rubrum: 332, 457, 460, 462, 766, 1015, 1018. 
+Penqueculum: 746, 755, 1375, 6965, 626, 948. 
+Pensamiento, claridad, estimular / Funcion mental: 35. 
+Peptica: Ulcera: 880, 787, 776, 727.
+Pepto streptococcus: 201, 629.
+Pericarditis (solo en experimentacion con animales): 46, 40, 58, 47, 75, 1, 14, 17, 20, 28, 42, 45, 58, 5000.
+Pericarditis : 2720, 2170, 1600, 880, 1550, 802, 787, 727, 625, 125, 95, 72, 20, 5000.
+Pericarditis: 4, 6, 10, 14, 11 + 16, 17, 19, 20, 26, 28, 42 , 45, 46, 47, 48, 58, 75. Periodontal, enfermedad (piorrea): 727, 787.
+Peritonitis: 727, 787, 880.
+Peritonitis: 727, 787, 880.
+Perniosis, sabañones: 20, 232, 622, 822, 4211, 2112.
+Pertussis (tos ferina): 526, 765, 46, 284, 9101, 697, 906.
+Pertussis secondaria: 880, 832, 802, 787, 776, 727, 1234, 7344.
+Pesticida , detoxicacion: 73, 26, 6, 1.
+Pezón, úlcera: 727, 787, 880, 5000.
+Phaqocyross, estimulacion: 20, 125, 727, 787, 880.
+Phoma Destructiva (homeopatico): 163, 815, 621.
+Pie , ampollas: 10000, 880, 787, 727, 465, 1, 14, 17, 20, 28.
+Pie de atleta: 20, 727, 787, 880, 5000, 644, 766, 464, 802, 1552, 9999, 3176, 304, 28, 11, 14, 16, 58.
+Piel , patología (no psoriasis): 1500, 20.
+Piel , problemas de trombosis: 20, 727, 787, 880, 1500. Piel, hemorragia: 800, 5000.
+Piernas: 727, 787, 800, 880, 10000.
+Pies/manos fríos: 20, 727, 787, 880, 5000.
+Pineal glandula, estimulacion: 20.
+Pineal, estimular la funcion: 662 .
+Piocianico (homeopatico nosode para Pseudomonas pyocyanea): 437.
+Pioderma (Pyoderma Gangrenosum): 123, 132, 967, 974, 1556, 1489, 663.
+Piorrea, enfermedad periodontal: 4, 5, 8, 9, 10, 11 + 16,14,17, 18, 20, 28, 29, 87, 88.
+Piorrea: 2720, 2489, 2008, 1800, 1600, 1550, 802, 880, 787, 776, 727, 465, 444, 522, 146, 20, 5000.
+Piorrea: 727, 787, 800, 880, 10000.
+Pituitaria Funcion, normalizacion: 635  , 480
+Placenta, expulsion: 727, 787, 880.
+Plantaris: 2008.
+Plantaris: 2008.
+Plasmacitoma (tumor celula plasmatica, mieloma:475. Plata: 15903.
+Pleural Efusion: 787, 474, 612, 361.
+Pleuresia: 11, 16, 14, 17, 18, 20, 42, 45, 48, 58, 29 + 86, 103, 107. Pleuritis:1550, 802, 880, 787, 776, 727, 125, 95, 72, 20, 444, 1865, 450, 5000.
+Pneumococo: (Streptococcus pneumoniae): 158, 645, 801, 683.
+Poleo (hierba): 772.
+Poliartritis: 512.
+Polio (poliomielitis): 135, 283, 742, 776, 1500, 2632, 1850, 1580.
+Polio, complicaciones secundarias: 1550, 802, 428, 1500, 880, 787, 727, 2632.
+Poliomielitis: 1550, 428, 1500, 880, 787, 727, 11 + 16, 105, 12, 14, 17, 20, 5000, 10000.
+Polipo nasal: 542, 1436.
+Polipo uterino: 689.
+Polipos nasales: 542, 1436.
+Polipos uterinos: 689.
+Polipos, general: 2720, 2489, 2170, 2127, 2008, 1800, 1600, 727, 690, 666, 650, 625, 600, 465, 444, 20, 522, 146.
+Polipos: 4, 5, 6, 7, 8, 9, 10, 20 + 22 + 24, 25 + 26 + 27, 28,29, 58, 87, 88. Porfiria: 698, 780.
+Porfiria: 698.
+Pre-operacion y post-op (prevencion nosocomial): 2170, 1800, 1600, 1550, 1500, 880, 832, 787, 776, 727, 465, 444, 522, 146, 428, 6, 9, 10, 11 + 16, 12, 14, 15, 16, 17, 18, 20, 28, 29, 87, 88, 105, 107, 109.
+Profilaxis general: 20, 125, 727, 787, 832, 680, 10000.
+ProgesteronA, equilibrar, normalizar sus valores: 763 , 1446 , 1443 , 763 
+Prostata glandula: 5000.
+Prostata tumor (maligno): 2127, 2008, 727, 690, 666, 7, 8, 20 + 22 + 24.
+Prostata, adenoma: 442, 688, 1875, 748, 766.
+Prostata, hiperplasia: 920.
+Prostata, neo (hiperplasia prostatica): 20, 60, 72, 95, 125, 666, 727, 787, 790, 766, 800, 920, 1998, 1875, 442, 2008, 2127, 2128, 2217, 2720, 2050, 2250, 5000, 2130, 2120, 690, 304.
+Próstata, patología: 2127, 2008, 727, 690, 666, 465, 880, 787, 727, 125, 95, 73, 72, 63, 7, 8, 20, 22, 24, 28, 14, 16, 17, 20, 42, 45, 47, 48, 58.
+Prostata, problemas, generales: 2128, 2008, 2720, 664, 728, 408, 9.39, 2127, 2008, 727, 690, 666, 465, 880, 802, 787, 727, 125, 95, 73, 72, 20, 9, 9.19.
+Prostata: 2250, 2128, 2050, 690, 666.
+Prostatitis (infection, secundaria): 2050, 2250.
+Prostatitis benigna, tumor de prostata: 9.4, 44 y 30, 88, 4, 5, 6, 7, 8, 11 + 16, 17, 18, 20 + 22 + 24, 28, 42, 45, 48, 58, 29 + 87.
+Prostatitis: 100, 410, 522, 146, 2720, 2489, 2170, 2127, 2008, 1550, 802, 787, 776, 727, 690, 666, 465, 125, 95, 72, 20, 444, 522, 9.1.
+Proteus: 424, 434, 834. Protozoo: 432, 753, 5776.
+Prurito ,de ano, dedos y pies: 727, 787, 880, 5000.
+Prurito anal: 20, 727, 787, 880, 10000.
+Prurito: 14, 17, 20, 28, 29, 42, 45, 48, 58, 29 + 86.
+Prurito: 880, 787, 727, 444, 125, 95, 72, 20, 444, 1865, 14, 17, 20, 28, 29, 42, 45, 48, 58, 29 + 86, 3176.
+Pseudomonas aeruginosa: 174, 482, 785, 1132, 5311, 3965, 405, 633, 191, 178, 731, 6646, 178.
+Pseudomonas mallei: 687, 857, 875, 1273, 501, 743, 774.
+Pseudomonas pyocyanea: 437.
+Psitacosis (Ornithosis, psiticosis): 1217.
+Psoriasis: 2180, 2128, 2008, 2489, 1552, 880, 800, 786, 728, 664, 304, 96, 112, 100, 60, 104, 64, 152, 2170, 2720, 110.
+Psoriasis: 5000, 2489, 11 + 16, 12, 14, 17, 20, 43, 44 + 49, 727, 787, 880, 5000.
+Psoriasis: 880, 787, 727, 2720, 2489, 2170. Psorinum: 786, 767.
+Ptosis ocular: 727, 787, 880, 5000, 10000. 
+Ptosis palpebral: 10000, 5000.
+Ptosis parpebral: 10000.
+Pullularia pullulans (remedio alergia): 432, 873, 1364, 684, 739, 75.
+Pulmón , Sinus: 244, 1466, 597, 1311. 
+Pulmones , respiración: 727, 787, 880.
+Pulmones: 1550, 880, 787, 776, 727, 125, 95, 72, 20, 9, 444, 1865, 450, 11, 16, 14, 17, 18, 20, 42, 45, 48, 58, 29 + 86, 103, 107.
+Pulmonía: 1550, 880, 787, 776, 727, 5000. 
+Pyelitis, proteus : 434, 594, 776.
+Pyrogenium ex ovo: 231, 1244, 1210, 1216. 
+Pyrogenium mayo: 688, 759, 1625, 727, 770. 
+Pyrogenium pescado: 287, 304.
+Pyrogenium suis: 341, 356, 673. 
+Pyrogenium:151, 429, 594, 622, 872, 497, 498. 
+Pyrogenuls mayo: 1625.
+Quemadura: 190, 10000, 880, 787, 727, 465, 200, 39, 1, 14, 17, 20, 28, 38. 
+Quemaduras (radiactiva): 880, 787, 727.
+Quemaduras: 190, 10000, 880, 787, 727, 465, 200, 10000.
+Quiste de ovario: 982.
+Quiste, solitario: 75, 76, 543.
+Rabia (lisinum): 20, 120, 547, 793, 727, 787, 880. 
+Radiacion, quemaduras: 727, 787, 880, 10000. 
+Raquitismo: 880, 5000.
+Raynaud, enfermedad: 20, 58, 727, 20.
+Raynaud, gangrena: 880, 787, 727, 20.
+Recuperacion de algunas enfermedades: 3000, 95, 190, 47.5, 2720, 2489, 1800, 1600, 1550, 1500, 880, 832, 787, 776, 727, 666, 650, 600, 465.
+Relajación, meditación, sueño profundo: 74.
+Relajacion: 6000, 10, 7.83.
+Renal insuficiencia; hipertension diastolica: 9.2.
+Renal, insuficiencia: 9.2, 10, 40, 440, 1600, 1550, 1500, 880, 802, 650, 625, 600, 444, 1865, 146, 250, 125, 95, 72, 20.
+Reproduccion: 335, 536, 622, 712. Resaca: 10000, 522, 146, 1, 87, 88.
+Resfriado (2): 652, 725, 746, 751, 768, 1110, 333, 666, 542, 522.
+Resfriado en cabeza y pecho: 10000, 7344, 333, 4412, 1550, 880, 802, 787, 1, 11, 14, 16, 17, 18, 20, 29, 58, 776, 727, 660, 444, 5000.
+Resfriado y gripe (año 98): 250, 465, 8210, 8700, 7760.
+Respiración, profunda: 1234, 3672, 7344.
+Respiratorio syncitial virus: 336, 712, 278.
+Retención de líquido en articulaciones y tejidos, reducir: 24.3 . 
+Retrovirus, variante: 2489, 465, 727, 787, 880, 448, 800, 10000. 
+Reuma: 952, 436, 595, 775.
+Reuma: 952.
+Reumatico: 333, 376, 820.
+Reumatismo: 10000, 776, 262.
+Rhesus gravidatum: 312, 322, 536, 684.
+Rhinopneumonitis: 185, 367, 820, 487.
+Rhizopus nigricans: 132, 327, 775, 659, 660.
+Rhodo torula: 833, 598, 778.
+Rhodococcus: 124, 835, 432, 764, 337, 682, 720.
+Ricketsia:: 129, 632, 943, 1062, 549, 720, 726.
+Rickettsia): 523, 1357, 607, 129, 632, 943, 1062, 549, 720, 726.
+Rinitis (Sinusitis): 1550, 802, 1500, 880, 787, 727, 465, 522, 146, 120, 20. 
+Rinitis: 1, 11+16, 12, 14, 17, 18, 20, 29, 58, 87, 88, 28.
+Riñon, meridiano, balancearlo: 9.2, 65.
+Riñon, tonico general: 440, 248, 8, 880, 20, 10000, 800, 5000, 3000. Riñones, estimular su función: 625 .
+Riñones: 8, 440, 880, 20, 10000.
+RNA estimular el refuerzo de la integridad del: 637 .
+Rocky Mountain: 375, 862, 943, 788, 468, 308.
+Rodilla, dolor: 1550, 880, 802, 787, 727, 28, 20, 7.69, 3, 1.2, 250, 9.6, 9.39, 10000.
+Rodilla: 800.
+Ronquera , carraspera: 880, 760, 727, 14, 19, 20. Rotifer: 4500.
+Rubeola secundaria: 727, 787, 880.
+Rubeola Vac: 459.
+Rubeola: 510, 517, 796, 967, 368, 734, 772. 
+Rubeola: 727, 787, 880, 20, 517, 43.
+Rubeola: 784.
+Sabañón (ver Perniosis): 5000, 20.
+Sabañones, Perniosis: 20, 232, 622, 822, 4211, 2112.
+Sabor , excesiva sensibilidad del gusto o sabor (Hiperosmia): 20, 10000.
+Saborear, no Anosmia: 10000, 20.
+Salmonela paratyphi B: 59, 92, 643, 707, 717, 719, 752, 972, 7771, 1244, 6787, 165, 711.
+Salmonela type B: 546, 1634. 
+Salmonela typhi: 420, 664, 8656, 773.
+Salmonella typhi y Ricketsia: 3205, 824, 1550, 802, 690, 1800, 1862, 712, 714, 20, 1570, 770.
+Salmonella typhimurium: 693, 754, 762. 
+Salud , buena, buen estado: 6.8, 7.83. 
+Sangre, enfermedades: 880, 787, 727, 5000. 
+Sanguinera: 634.
+Sanguis menst: 591.
+Sarcoma de Kaposi, neo: 249, 418, 647. 
+Sarcoma de Kaposi: 249, 418, 647. 
+Sarcoma de Kaposi: 249, 418.
+Sarcoma, neo: 2008, 3524.
+Sarcoma: 2127 2008 880 787 727 690 666, 7, 8, 14, 17, 20, 22, 24.
+Sarcoma: 727, 787, 880, 2000, 2008, 2127.
+Sarna folicular (mange follicular): 920, 1436, 2871, 5742, 253, 693.
+Sarna folicular 693, 253.
+Sarna folicular: 253, 693.
+Sarna: 253, 693, 701, 774.
+Sarna: 253, 693.
+Sarrampión (Morbillinum): 20.
+Schistosoma haematobium (parasitos en sangre): 847, 867, 635.
+Schistosoma mansoni (parasito sanguineo que causa cuadro parecido a hepatitis C): 329, 9889.
+Schistosoma, haematobium: 847, 867, 635. Y Mansoni: 329, 9889.
+Schumann resonancia (relajante): 7.83.
+Schumann, frecuencias: 7.8, 68.
+Schunan B-Cell: 322, 425, 561, 600, 620, 623, 780, 781, 950, 952, 1023, 1524, 1097, 1100.
+Sciaticor schias: 1550, 802, 880, 787, 727, 690, 666, 10. Sebo: 153, 180, 638.
+Sedacion y dolor , alivio: 304, 6000.
+Sedante efecto: 2.5.
+Sedante, efecto: 2.5, 80. 300, 304, 310, 1234.
+Semperillium: 1140.
+Senos nasales: 20, 727, 787, 880, 120.
+Sensibilidad electrica, reducir: 657 .
+Sensibilidad quimica, reducir: 440 .
+Sensibilidad quimica: 727.
+Serum schweinepest: 503, 246, 604, 465.
+Sexual debilidad: 10000, 20, 727, 880.
+Sexual, balancear la polaridad: 10000.
+Sexual, disfuncion (sorchitis): 9.39, 2127, 2008, 465, 880, 802, 787, 727, 690, 666, 124, 95, 73, 72, 20, 650, 625, 600.
+Sexual, disfunción: 63, 7, 8, 28, 14, 16, 17, 20 + 22 + 24, 42, 45, 47, 48, 58, 25 + 26 + 27.
+Sexual, enfermedad: 20, 727, 800, 880, 625, 660, 1500, 1850.
+Shigella: 621, 762, 769, 770, 1550, 802, 832.
+SIDA (1): 1.44, 1550, 1500, 249, 418, 727, 787, 880, 2489, 3100, 3175, 3475.
+SIDA: 2489, 465, 727, 787, 880, 1550, 1500, 5000, 489, 3475, 3375, 3275, 3175, 1.2, 31000.
+Sífilis (luesinum/Sifilinum):177.
+Sifilis: 177, 650, 625, 600, 660, 658.
+Sifilis: 20, 120, 625, 650, 659, 700.
+Sifilis: 25 + 26 + 27.
+Sindrome de mano, boca y pie (infeccion viral en niños pequeños): 232, 237, 1214, 1243, 1244, 1271, 5411.
+Sinus Bacteria: 548.
+Sinusitis (2): 125, 160, 367, 472, 600, 615, 625, 650, 820, 952, 1150, 1520, 1865, 2000, 4392, 4400, 4412.
+Sinusitis (3): 60, 95, 128, 225, 414, 427, 432, 456, 610, 614, 618, 1234, 2600, 5500, 304.
+Sinusitis frontal: 952, 320, 682.
+Sinusitis maxilar: 160, 741.
+Sinusitis: 11 + 16, 14, 17, 20, 42, 48, 87. 
+Sistema nervioso, estimular: 764 
+Sol, alergia: 3, 330.
+Sol, alergia: 78 y 32.
+Solar plexo, dolor: 5000, 20.
+Solar plexo: 20, 727, 787, 880, 5000.
+Solitaria: 142, 187, 624, 662.
+Sordera (parcial o total): 10000, 1550, 880, 802, 787, 727, 20, 500, 1, 14, 11, 16, 17, 20, 58.
+Sorghum smut (homeopatico): 294.
+Sporobolomyces: 753, 700.
+Sporotrichum pruinosum: 584, 598, 687, 755, 715.
+Stemphylium :461, 340, 114.
+Streptococcus pneumoniae (Listeriose, y Leptospirosis): 322, 517, 720, 733, 764, 822, 1044, 1422, 423.
+Streptococo, cepa mutada: 114, 437, 625, 883, 994, 108, 433, 488, 687, 833, 8686, 8777, 9676, 660, 732, 745, 754, 764.
+Streptococos enterococcinum: 686, 409.
+Streptococos hemolitico: 728, 880, 786, 712, 128, 134, 334, 443, 535, 542, 675, 1415, 1522, 1902, 691, 710, 1203, 368, 318.
+Streptococos pepto: 201.
+Streptococos pneumoniae: 231, 232, 683, 846, 8865, 158, 174, 645, 801.
+Streptococos pyogenes: 616, 776, 735, 845, 660, 10000, 880, 787, 727, 465, 20.
+Streptococos viridans: 425, 433, 445, 935, 1010, 1060, 8478, 457, 465, 777, 778, 1214, 1216.
+Streptococos, infecion, general: 1266, 880, 787, 784, 727, 875, 885, 2000. 
+Streptococos: 563, 611, 727.
+Streptomyces griseus: 333, 887.
+Streptothrix (Nocardia y Actinomyces israeli): 784, 228, 231, 237, 887, 2890, 222, 262, 2154, 465, 488, 567, 7880, 10000, 787, 727, 20, 781, 790.
+Streptothrix, infeccion: 17, 784, 727, 728,784, 787.
+Strongyloides secundaria: 380, 698, 752, 776, 722, 738, 746, 1113. 
+Struma parenchyme: 121, 576.
+Subluxacion: 62.
+Subluxacion: 9.6.
+Subtilis: B. 432, 722, 822, 1246.
+Sudor pedis (sudor pies): 148.
+Sueño atrasado: 75.
+Sueño, enfermedad del: 120, 20 , 727, 787, 880.
+Sueños: 20, 727, 787, 880, 5000, 10000.
+Suprarrenal, estimulante: 5000, 20.
+Suprarrenales, estimulacion: 2489 y 465, 20, 3000, 95, 2720, 2170, 2127, 2008, 1800, 1600, 1550, 1500, 880, 832, 787, 776, 760, 727, 700, 690, 685, 666, 650, 625, 600, 444, 1865, 125, 95, 72, 522, 450, 440, 428, 660.
+Suprarrenales: 24000.
+TA, normalizar: 15 
+T, celulas: 222, 262, 822, 3042, 3734.
+Tabaco: 233, 274, 543, 782, 1052.
+Talamo, estimulante: 20 5000.
+Taquicardia: 1.2, 5000.
+Taquicardia: 82.
+Tartamudear: 10000, 20, 6000, 7.83, 727, 787, 880.
+Tejidos, nutricion: 727, 787, 880, 5000.
+Tendinopatia: 33, 34, 40, 46, 53, 58, 61, 73. 80, 81,82, 84, 85.
+Tendomiopatia: 320, 250, 160, 80, 40, 20, 10, 5.8, 2.5, 1.5, 1.2, 1, 0.5.
+Tenia, solitaria: 187.
+Tensión sanguinea, normalizar su función: 15 
+Testiculos: 1, 440, 880, 20.
+Testosterona, normalizar en el hombre: 1444. 
+Testosterona, normalizar los niveles en la mujer: 1445 
+Tetanos (clostridium tetani): 244, 600, 554, 120, 352, 1142, 363, 458, 465, 628.
+Tetanos (complicaciones secundarias): 880, 787, 727.
+Tetanos Anti-Toxina: 363, 458.
+Tetanos, (complicaciones secundarias): 14, 17, 20. 440, 125, 27.
+Tetragenus: 393, 433, 2712.
+Thermi bacteria: 233, 441.
+Thermi Bacteria: 233, 441.
+Tifoidea, fiebre: 1550, 690, 1800, 118, 119, 11 + 16, 22, 9. 20, 690, 1570, 1865. 
+Tifoidea, fiebre: 20, 690, 1570.
+Timo, estimulante: 20, 727, 787, 880, 5000.
+Tinnitus, zumbido en los oidos: 20, 2720, 728, 784, 880.
+Tiroides, estimulante: 16,000.
+Tiroides, estimular su función: 763.
+Tonsilitis: 1.2, 73, 1550, 802, 1500, 880, 832, 787, 776, 727, 650, 625, 600, 465, 144, 452, 582, 20.
+Tonsilitis: 82 y 47, 11 + 16, 12, 14, 15, 17, 18,.20, 25 + 26 + 27, 28, 107. 880, 440.
+Tonsillar nosode: 1656.
+Tonsillar pfropfe: 246, 151, 414.
+Tonsular Pfropfe: 246.
+Torcedura articulación, torcedura muscular: 20, 5000.
+Torcedura ligamentos: 5000, 20.
+Tortícolis: 4.9, 6, 9.19, 20, 727, 787, 880, 10000.
+Tortícolis espástica: 65 y 72.
+Tortícolis: 74.
+Torulopsis: 522, 2121.
+Tos , ataque de tos: 522, 524, 525, 146, 1500, 1550, 0.5, 514, 530, 432, 440, 444, 720, 1234, 3702, 20, 125, 72, 95, 7.7
+Tos ferina (Pertussis): 727, 787, 880, 20.
+Tos ferina: 526, 765, 46, 284, 9101, 697, 906.
+Toxinas (a eliminar): 0.5, 522, 146, 1552, 800.
+Toxinas, eliminacion: 0.5, 85, 87, 88, 1, 14,17, 20, 58.
+Toxoplasmosis: 434, 852.
+Trabajar, desgana: 72.
+Trachoma (Chlamydia trachomatis): 880, 787, 727.
+Tracoma (ojos): 727, 880, 787.
+Trauma oseo (cortes, fracturas): 380, 1550, 802, 10000, 880, 787, 727, 2720, 500, 31, 11, 16, 1, 14, 17, 20.
+Trauma: 3, 45, 39, 19, 14, 17, 20, 28.
+Trauma: 96, 192, 300, 760, 3000, 727, 787, 880, 5000, 10000. 
+Trauma emocional: 15.
+Treponema (sifilis, gonorrea): 660, 626, 20, 10000, 625, 600, 650.
+Treponema palidum: 660, 902.
+Treponema: 660.
+Trichodermia: 711.
+Trichomonas: 610, 692, 980
+Trichophytie general: 132, 725, 808, 812, 2422, 9493.
+Trichophytie nagel secundario: 133, 142, 373, 376, 378, 385, 387, 420, 425, 428, 576, 578, 580, 581, 583, 584, 587, 588, 592, 595, 597, 724, 725, 726, 750, 794, 797, 801, 805, 808, 809, 817, 886, 2422, 6887, 7688, 7697, 7885, 584, 587, 592, 732, 733, 738, 748, 765, 766, 771, 777, 778, 779, 1256.
+Trichophytie nagel: 381, 585, 593, 812. 
+Trichophyton mentagrophytes: 311, 414. 
+Trichophyton rubrum: 752, 923. Trichophyton tonsuraus: 454, 765.
+Trigemino, neuralgia: 2720, 2489, 2170, 1800, 1600, 1550, 802, 7.5, 880, 832, 787, 776, 760, 727, 650, 146, 7.82, 27.5, 428, 4, 5, 6, 9, 10, 11 + 16, 14, 15, 17, 18, 19, 20, 25, 88, 68, 56, 105, 106, 107, 109, 110, 112, 116.
+Trigo, maiz ennegrecido: 10163, 156, 375. Triquinosis: 101, 541, 822, 1054, 1372. 
+Tromboflebitis: 1500, 776, 685.
+Trombosis venosa (tromboflebitis): 23, 685.
+Trombosis, infectada / herpes: 4, 5, 6, 9, 11 + 16, 14, 17, 20, 29, 42, 45, 48, 58, 29 + 86, 2720, 2489, 2170, 1800, 1550, 802, 880, 787, 727, 444, 125, 95, 72, 1865, 1489.
+Trombosis: 5000, 800, 20.
+Trypanosoma gambiense: 255, 316, 403, 700, 724.
+Tuberculinum: 332, 522, 664, 731, 737, 748, 1085, 1099, 1700, 761.
+Tuberculosis (complicaciones secundarias): 776, 2127, 2008, 465.
+Tuberculosis aviare: 303, 332, 342, 438, 440, 532, 3113, 6515, 697, 698, 720, 731, 741, 748, 770.
+Tuberculosis bovine: 229, 523, 625, 635, 838, 877, 3353, 748, 757.
+Tuberculosis klebs: 217, 220, 221, 686, 1132, 1644, 2313, 6516, 729, 748.
+Tuberculosis virus: 20, 799, 787, 727, 800, 801, 1550, 1500, 1600.
+Tuberculosis, complicaciones secundarias: 776, 2127, 2008, 465.
+Tuberculosis: 20, 740, 1840, 720, 1552, 1600, 216, 802, 784, 1500, 727, 690, 1550, 800, 666, 11+16, 20+22+24, 18, 7, 8, 28, 107. 802, 803.
+Tularemia (enfermedad bacteriana en conejos que da fiebre): 324, 427, 823. 
+Tumores , cualquier tipo: 2127.
+Tunel carpiano: 2008, 666.
+Turbatrix: 104.
+Ulcera de crecimiento rápido nasal y oral: 20, 727, 787, 802, 880, 5000
+Úlcera de presión , de decúbito: 880, 1550, 802, 787, 727, 465, 20, 1.2, 73, 82, 47, 58, 28, 17, 16, 11, 14.
+Ulcera, duodenal: 676, 727, 750, 880, 10000. 
+Ulcera, gastrica: 676.
+Ulcera, ventric: 142, 566, 676, 232, 1000, 760, 769. Úlceras Dentales: 880, 787, 776, 727.
+Ulceras todas: 727, 787, 880, 776.
+Ulceras, general: 676, 664, 802, 784, 2489, 2170, 2127, 1800, 1600, 880, 832, 802, 787, 776, 727, 73
+Ulceras: 2489, 2170, 2127, 1800, 1600, 880, 832, 787, 776, 727. 
+Ulceras: 5, 6, 7, 9, 10, 14, 15, 16, 17, 18, 20, 82 y 47.
+Uñero, panadizo: 657, 659, 738, 751.
+Urea, plasma: 756.
+Uremia: 911.
+Uretritis (usar Chlamydia trachomatis): 2720, 2170, 2127, 1800, 1600, 1550, 802, 1500, 880, 832, 787, 776, 727, 650, 625, 600, 465, 444, 1865, 125, 95, 72, 1.2.
+Uretritis: 4, 6, 7, 9, 10, 11 + 16, 12, 14, 15, 17, 18, 20, 25 + 26 + 27, 28, .29 + 86, 42, 45, 48, 82. 660, 727, 787, 880, 660.
+Urticaria (a veces debido a toxinas): 9, 87, 88, 74, 17, 20, 1800, 522, 146, 4.9, 787, 727.
+Urticaria: 20, 800, 1800, 800.
+Urticaria: 9, 14, 17, 20, 87, 88, 74. 1800, 880, 787, 727, 522, 146, 4.9. 
+Utero, neoplasia: 127.
+V-75 Victoria: 343.
+Vaccininum : 476.
+Vaginosis: 414, 542, 642, 652, 800, 832, 845, 866, 942, 728, 784, 880, 464.
+Vapch Grippe: 153, 343. 
+Varicela: 20, 727, 880, 11, 16. Varicela: 345, 668, 716. 
+Varices: 1.2, 28, 82 y 55. 
+Variolinun: 542, 832, 3222. 
+Vegetativa distonia: 40, 53.
+Vejiga urinaria y próstata , patología: 880, 1550, 802, 787, 727, 465, 20, 9.39, 14, 11, 16, 17, 28, 58, 63.
+Vejiga urinaria, TBC: 642, 771, 360, 726, 724.
+Verruga (general): 2720, 2489, 2170, 2127, 2008, 1800, 1600, 1500, 953, 907, 915, 787, 727, 690, 666, 644, 767, 953, 495, 466, 4, 5, 6, 7, 8, 9, 10, 12, 20 + 22 + 24.
+Verruga: 644, 767, 797, 877, 953, 173, 787.
+Vertigo, de causa desconocida: 49 y 73. Vértigo, mareos: 10000, 20.
+Vertigo: 60, 5.8, 4.
+Vértigo: 73.
+Vértigos, mareos: 20, 727, 787, 880, 5000. Vértigos: 20, 727, 787, 880.
+Vesicula biliar, distonia con osteitis: 2.65, 3000, 880, 787, 727, 20, 79, 3, 14, 17, 20, 58.
+Vesicula biliar, dolor: 1550, 800.
+Viruela, secundario: 334, 542, 569, 832, 3222, 360, 471, 647, 506, 711, 880, 787, 727, 20.
+Viruela: 142, 476, 511, 876, 1644, 2132, 2544, 1550, 802, 542, 569, 832, 3222, 20, 880, 727, 787.
+Viruela: 476, 511, 876, 1644, 2132, 2544.
+Virus ' A ', gripe: 332.
+Virus ' B ' gripe Hong Kong: 555.
+Virus ' B ' gripe: 530, 532, 536, 537.
+Vision, baja-pobre: 350, 360.
+Vision: 20, 5000, 10000.
+Vista (agudizar): 350, 360, 1830.
+Vitamag, set completo: 1, 2, 3, 4, 5, 6, 7, 7.8, 9, 10, 13, 16, 19.5, 22.5, 24.
+Vitiligo (usar ademas complejo vitamina B, PABA): 440, 600, 650, 2112, 880, 787, 727, 444, 20.
+Viuda Negra, picadura: 376, 728.
+Yersenia pestis (ver Bubonica, peste): 333.
+Zygomycosis (mucormicosis; un hongo asociado a diabetes mellitus o drogas inmunosupresivas): 942, 623, 733.

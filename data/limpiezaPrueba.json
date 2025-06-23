@@ -1,0 +1,17 @@
+{
+  "limpieza": 
+		  [
+		  	{
+		  	"name": "Detoxificación",
+		  	"frec": [
+			    {
+			      "hz": 10000,
+			      "time": 3
+			    },
+			    {
+			      "hz": 3176,
+			      "time": 3
+			    }]
+		    }
+  		]
+}
