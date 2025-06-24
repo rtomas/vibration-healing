@@ -15,7 +15,7 @@ Boolean imgOk;
 PImage img;
 int next, sec;
 Pulse pulse, pulse2, pulse3;
-JSONObject val, valFull, listado;
+JSONObject val, valFull;
 JSONArray limpieza, limpiezaFull;
 int repi, repii, time;
 boolean playNext, limpiando, enEjecucionSonido, eFull;
@@ -31,7 +31,6 @@ void setup() {
   
   valFull = loadJSONObject("limpiezaFull.json");
   val = loadJSONObject("limpieza.json");
-  listado = loadJSONObject("NombresPrueba.json");
  // val = loadJSONObject("limpiezaPrueba.json");
   
   limpieza = val.getJSONArray("limpieza");
